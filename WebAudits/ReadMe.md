@@ -13,8 +13,8 @@ Level 1 testing is meant for those who struggle understanding and using an autom
 ## Level 2
 This level is meant to provide the minimum testing standards you should use to evaluate your web content
 
-### Basic Automated Testing:
-* [Level 2 Training](#) - Video
+### Basic Automated and Manual Testing:
+* [Level 2 Training](#) - Video TBA
 * [Web Audits- Minimum Standards](https://github.com/jkhurdan/A11yTraining/wiki/Web-Audits-(Level-2))
 * [Website Testing- Level 2 Walk-through](https://github.com/jkhurdan/A11yTraining/wiki/Website-Testing%E2%80%90-Level-2-Walk%E2%80%90through)
 
