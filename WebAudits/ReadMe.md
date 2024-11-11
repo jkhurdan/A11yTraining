@@ -1,7 +1,7 @@
 # Conducting Accessibility Audits on Web Content
 
 <blockquote> 
-  <p style="color: Yellow"> <b> Caution </b> </p>
+  <p style="color: #0000FF"> <b> Caution </b> </p>
 The content does not represent legal advice. It's opinions are those of the authors, and is intended to provide you with a base line of how to test items for accessibility. You will need access to our private network to watch any of the videos at this time.
 </blockquote>
 
