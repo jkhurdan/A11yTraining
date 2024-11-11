@@ -1,8 +1,9 @@
 # Conducting Accessibility Audits on Web Content
 
->[!CAUTION]
-> <br>
->The content does not represent legal advice. It's opinions are those of the authors, and is intended to provide you with a base line of how to test items for accessibility. You will need access to our private network to watch any of the videos at this time.
+<blockquote> 
+  <p style="color: Red"> Warning </p>
+The content does not represent legal advice. It's opinions are those of the authors, and is intended to provide you with a base line of how to test items for accessibility. You will need access to our private network to watch any of the videos at this time.
+</blockquote>
 
 ## Level 1
 Level 1 testing is meant for those who struggle understanding and using an automated testing tool like WAVE. It is below the minimum threshold of testing, but recognizes that there are high impact items you could evaluate with out needing to full automated/manual testing.
