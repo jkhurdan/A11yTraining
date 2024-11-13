@@ -172,7 +172,7 @@ Items should have extended audio descriptions available </td>
 	
 <tr> 
 	<td> All form items are accessible to a screen reader </td>
-	<td>< Gold /td>
+	<td> Gold </td>
     </tr>
 	
 <tr> 
@@ -188,20 +188,67 @@ Items should have extended audio descriptions available </td>
 
 </table>
 
-Course Design
-Standard	Level
-No flashing lights or items that may cause seizures	Bronze
-Use of recommended tools	Bronze
-Consistent Navigation and course structure	Bronze
-Hide unused tools	Bronze
-Clear Technical instruction	Bronze
-Accessibility Statement included with 3rd party tools	Silver
-Use of Modules for course items	Silver
-Linking due dates into Calendar (all assignments in canvas)	Silver
-Use publishers who offer accessible electronic copies of books and any course labs or management systems	Silver
-Identify Textbooks selections at least 6-8 weeks before classes begin	Gold
-Make the class syllabus available six to eight weeks before classes begin	Gold
-Accessible Syllabus	Bronze
-Readings, test dates, assignments clearly identified along with due dates	Bronze
-Have Course materials created at least 2 weeks prior to the class	Gold
+### Course Design
+<table>
+	<tr>
+		<th> Standard </th>
+		<th> Level </th>
+	</tr>
+	<tr>
+		<td> No flashing lights or items that may cause seizures </td>
+		<td> Bronze </td>
+	</tr>
+		<tr>
+		<td> Use of recommended tools </td>
+		<td> Bronze </td>
+	</tr>
+		<tr>
+		<td> Consistent Navigation and course structure </td>
+		<td> Bronze </td>
+	</tr>
+		<tr>
+		<td>Hide unused tools </td>
+		<td> Bronze </td>
+	</tr>
+		<tr>
+		<td> Clear Technical instruction </td>
+		<td> Bronze </td>
+	</tr>
+		<tr>
+		<td> Accessibility Statement included with 3rd party tools </td>
+		<td> Silver </td>
+	</tr>
+		<tr>
+		<td> Use of Modules for course items </td>
+		<td>Silver </td>
+	</tr>
+		<tr>
+		<td> Linking due dates into Calendar (all assignments in canvas) </td>
+		<td> Silver</td>
+	</tr>
+		<tr>
+		<td> Use publishers who offer accessible electronic copies of books and any course labs or management systems </td>
+		<td> Silver</td>
+	</tr>
+		<tr>
+		<td> Identify Textbooks selections at least 6-8 weeks before classes begin </td>
+		<td> Gold </td>
+	</tr>
+		<tr>
+		<td> Make the class syllabus available six to eight weeks before classes begin </td>
+		<td> Gold </td>
+	</tr>
+		<tr>
+		<td>Accessible Syllabus </td>
+		<td> Bronze </td>
+	</tr>
+			<tr>
+		<td>Readings, test dates, assignments clearly identified along with due dates </td>
+		<td> Bronze </td>
+	</tr>
+			<tr>
+		<td> Have Course materials created at least 2 weeks prior to the class </td>
+		<td> Gold </td>
+	</tr>
+</table>
 
