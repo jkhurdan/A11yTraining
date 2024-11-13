@@ -9,11 +9,13 @@
 </ul>
 
 <h2> Suggested Course Road Maps </h2>
-Reviewing existing courses
-Minimum Accessibility standards
-What to Prioritize
-Managing PDFS
-Starting from scratch
+<ul>
+    <li>Reviewing existing courses</li>
+    <li>Minimum Accessibility standards</li>
+    <li>What to Prioritize</li>
+    <li>Managing PDFS</li>
+    <li>Starting from scratch</li> 
+</ul>
 
 ## Canvas Accessibility
 
@@ -27,47 +29,116 @@ Starting from scratch
     <li> <a href="https://community.canvaslms.com/t5/Canvas-Resource-Documents/Canvas-Keyboard-Shortcuts/ta-p/387069"> List of Canvas keyboard shortcuts (PDF)</a></li>
 </ul>
 
+<h2> Accessibility Guidelines </h2>
 Brief description of Bronze, Silver, Gold metric.
-Images
-Standard	Level
-All instructor created content must have a useful alt-text for all images. This includes documents, PowerPoint, Canvas content, etc.	Bronze
-Students provided with instructions/ expectations on how to add alt-text to content they create.	Silver
-Long descriptions provided for items where alt-text is not use-able	Gold
-Alternative provided where long description is not use-able.	Gold
-
-Audio/Video (Pre-recorded)
-Standard	Level
-Auto-captions available with ability to turn on/off	Bronze
-All video content is in Kaltura	Bronze
-All items have the ability pause and stop	Bronze
-Enough time to view all items	Bronze
-All items should have professional captioning done	Gold
-items should have extended audio descriptions available	Gold
-Instructor created videos all items are described	Silver
-
-Audio/Vido (Live)
-Standard	Level
-Auto Captions available	Bronze
-All items should have a professional Caption/ASL interpreter available	Gold
-Instructor created videos all items are described	Silver
-
-Document
-Standard	Level
-Meaningful heading structure	Bronze
-No use of color or shape to identify meaning	Bronze
-Consistent navigation	Bronze
-Meaningful/Descriptive Links	Bronze
-Accessible Tables	Bronze
-Use of PPT templates only (PPT)	Bronze
-Provide clean copies of printed/scanned materials. This includes handouts, course reserves, course packs, etc.	Bronze
-Searchable PDFs only	Bronze
-Color contrast meets standards in instructor generated content	Silver
-Word/PPT/ instructor created content is accessible	Silver
-All form items are accessible to a screen reader	Gold
-Alternative formats available	Gold
-Use high contrast text (e.g. black text on white background). Use an 11-point or larger font size.	Gold
 
 
+### Images
+<table>
+    <tr>
+        <th>Standard</th>
+        <th>Level</th>
+    </tr>
+    <tr>
+        <td>All instructor created content must have a useful alt-text for all images. This includes documents, PowerPoint, Canvas content, etc.	</td>
+        <td> Bronze </td>
+    </tr>
+        <tr>
+        <td>Students provided with instructions/ expectations on how to add alt-text to content they create.	</td>
+        <td> Silver </td>
+    </tr>
+        <tr>
+        <td>Long descriptions provided for items where alt-text is not use-able</td>
+        <td> Gold </td>
+    </tr>
+        <tr>
+        <td>Alternative provided where long description is not use-able. </td>
+        <td> Gold </td>
+    </tr>
+</table>
+
+	
+### Audio/Video (Pre-recorded)
+<table>
+     <tr>
+        <th>Standard</th>
+        <th>Level</th>
+    </tr>
+    <tr>
+        <td>Auto-captions available with ability to turn on/off</td>
+        <td>Bronze </td>
+    </tr>
+        <tr>
+        <td>All video content is in Kaltura</td>
+        <td>Bronze</td>
+    </tr>
+        <tr>
+        <td>All items have the ability pause and stop</td>
+        <td>Bronze</td>
+    </tr>
+        <tr>
+        <td>Enough time to view all items</td>
+        <td> Bronze </td>
+    </tr>
+        <tr>
+        <td>All items should have professional captioning done</td>
+        <td> Gold </td>
+    </tr>
+        <tr>
+        <td>
+Items should have extended audio descriptions available </td>
+        <td> Gold </td>
+    </tr>
+        <tr>
+        <td> Instructor created videos all items are described </td>
+        <td> Silver </td>
+    </tr>
+</table>
+
+
+### Audio/Vido (Live)
+<table>
+     <tr>
+        <th>Standard</th>
+        <th>Level</th>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+    </tr>
+</table>
+
+### 
+<table>
+     <tr>
+        <th>Standard</th>
+        <th>Level</th>
+    </tr>
+    <tr>
+        <td>Auto Captions available</td>
+        <td> Bronze</td>
+    </tr>
+        <tr>
+        <td>All items should have a professional Caption/ASL interpreter available</td>
+        <td>Gold</td>
+    </tr>
+        <tr>
+        <td>Instructor created videos all items are described</td>
+        <td>Silver</td>
+    </tr>
+</table>
+
+### 
+<table>
+     <tr>
+        <th>Standard</th>
+        <th>Level</th>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+    </tr>
+</table>
 
 Course Design
 Standard	Level
