@@ -30,7 +30,7 @@
 </ul>
 
 <h2> Accessibility Guidelines </h2>
-Brief description of Bronze, Silver, Gold metric.
+We've developed a tier sysem to help faculty prioritze and segment making accessibility changes into smaller, and more managable chunks. The ultimate goal for all courses is to make a Gold Standard course. Depending on the size and make up of your course you may fall into one of these 3 levels. All courses by should meet at minimum our bronze level.
 
 
 ### Images
