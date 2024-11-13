@@ -50,15 +50,39 @@ In some applications, there may not be a way to add an alt-text to an image. In 
 
 **Image Caption:** An Organization heiracty chart showing the Office of IT on top, with 3 departments reporting to it: Enterprise Application Services, Enterprise Delivery Services, Infustructure and Security. 
 
-
-
-
-
-
 ## 1.3 Long descriptions provided for items where alt-text is not use-able.	
-**Gold**
-Long descriptions provided for items where alt-text is not use-able	Gold
+**Gold Level**
+
+In some cases, a short alt-text is not enough information to convey the meaning of the image.
+
+**Example**
+
+<img width="598" alt="Meidan Income by Race, 2001. See chart below for data." src="https://github.com/user-attachments/assets/7ace98a9-6f69-4a14-984d-2527dbb30448">
+
+Figure 1-1  Median net worth by race, 2001 (assets minus debts)
+
+**Image Description:** The bar chart above is represented by the data below, with Years along the y axis, and Dollars long the x axis. 
+<table>
+  <tr>
+    <th> Race </th>
+    <th> 1998 </th>
+    <th> 2001</th>
+  </tr>
+  <tr>
+    <td> White People </td>
+    <td> $103,400 </td>
+    <td> $120,900</td>
+  </tr>
+  <tr>
+    <td> People of Color </td>
+    <td> $17,900 </td>
+    <td> $17,100</td>
+  </tr>
+</table>
 
 ## 1.4 Alternative provided where long description is not use-able.
-**Gold**
-Alternative provided where long description is not use-able.	Gold
+**Gold Level**
+
+In some cases, you may need to work with your office of disability services to provide items in alternate ways, such as embossed images, as seen in the example below.
+
+![image](https://github.com/user-attachments/assets/b2a4dc13-755f-4f61-a089-06fd07c00b9b)
