@@ -3,17 +3,17 @@
 
 <h2>Tools and Resources</h2>
 <ul>
-    <li> Canvas Ally </li>
-    <li> CidiLabs Tidy Up </li>
-    <li> Sensus Access </li>
+    <li> <a href="https://canvas.rutgers.edu/external-apps/ally/"> Canvas Ally </a> </li>
+    <li> <a href="https://canvas.rutgers.edu/external-apps/cidilabs-tidyup/"> CidiLabs Tidy Up </a> </li>
+    <li> <a href="https://it.rutgers.edu/digital-accessibility/knowledgebase/sensusaccess/"> Sensus Access </a> rut</li>
 </ul>
 
-## Suggested Course Road Maps
-•	Reviewing existing courses
-•	Minimum Accessibility standards
-•	What to Prioritize
-•	Managing PDFS
-•	Starting from scratch
+<h2> Suggested Course Road Maps </h2>
+Reviewing existing courses
+Minimum Accessibility standards
+What to Prioritize
+Managing PDFS
+Starting from scratch
 
 ## Canvas Accessibility
 •	How to fix and prevent accessibility issues in your Canvas course (DEAD LINK)
