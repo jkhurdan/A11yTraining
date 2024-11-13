@@ -95,20 +95,7 @@ Items should have extended audio descriptions available </td>
     </tr>
 </table>
 
-
 ### Audio/Vido (Live)
-<table>
-     <tr>
-        <th>Standard</th>
-        <th>Level</th>
-    </tr>
-    <tr>
-        <td></td>
-        <td></td>
-    </tr>
-</table>
-
-### 
 <table>
      <tr>
         <th>Standard</th>
@@ -128,16 +115,77 @@ Items should have extended audio descriptions available </td>
     </tr>
 </table>
 
-### 
+### Document
 <table>
      <tr>
         <th>Standard</th>
         <th>Level</th>
+    </tr>	
+<tr> <td> Meaningful heading structure </td>
+	<td> Bronze </td>
     </tr>
-    <tr>
-        <td></td>
-        <td></td>
+	
+<tr> 
+	<td> No use of color or shape to identify meaning </td>
+	<td> Bronze </td>
     </tr>
+	
+<tr>
+	<td> Consistent navigation </td>
+	<td> Bronze </td>
+    </tr>
+	
+<tr>
+	<td> Meaningful/Descriptive Links </td>
+	<td> Bronze </td>
+    </tr>
+	
+<tr> 
+	<td> Accessible Tables </td>
+	<td> Bronze </td>
+    </tr>
+	
+<tr>
+	<td> Use of PPT templates only (PPT) </td>
+	<td> Bronze </td>
+    </tr>
+	
+<tr>
+	<td> Provide clean copies of printed/scanned materials. This includes handouts, course reserves, course packs, etc. </td>
+	<td> Bronze </td>
+    </tr>
+	
+<tr> 
+	<td> Searchable PDFs only </td>
+	<td> Bronze </td>
+    </tr>
+	
+<tr> 
+	<td> Color contrast meets standards in instructor generated content </td>
+	<td> Silver </td>
+    </tr>
+	
+<tr> 
+	<td> Word/PPT/ instructor created content is accessible </td>
+	<td> Silver </td>
+    </tr>
+	
+<tr> 
+	<td> All form items are accessible to a screen reader </td>
+	<td>< Gold /td>
+    </tr>
+	
+<tr> 
+	<td> Alternative formats available </td>
+	<td> Gold </td>
+    </tr>
+	
+<tr> 
+	<td> Use high contrast text (e.g. black text on white background). Use an 11-point or larger font size. </td>
+ <td> Gold </td>
+    </tr>
+	
+
 </table>
 
 Course Design
