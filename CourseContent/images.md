@@ -9,7 +9,7 @@ The alt text should convey the purpose and function of the non-text content. Thi
 
 Alt text is more art than science. The only "wrong" is not including alt text where it is needed. Considering alt text on a scale of "good" versus "better" will you help craft more useful alt text.
 
-How to add an alternative text to: 
+<b> How to add an alternative text to: </b>
 <ul>
   <li> 
 <a href="https://support.microsoft.com/en-us/office/add-alternative-text-to-a-shape-picture-chart-smartart-graphic-or-other-object-44989b2a-903c-4d9a-b742-6a75b451c669"> A microsoft Word or PowerPoint file </a> </li>
@@ -25,12 +25,7 @@ How to add an alternative text to:
 </ul>
 
 ### Creating good alt-text
-1. Context is Key
-2. Consider your Audience
-3. Be Concise
-4. Be Objective
-5. General to Specific
-6. Tone & Language
+Our office has a training on <a href="https://rutgersconnect.sharepoint.com/:f:/r/sites/oit-digitalaccessibilitynetwork/Shared%20Documents/Trainings/2024-06-17-%20Image%20Guidelines?csf=1&web=1&e=ueBYZc"> how to create great alt-text </a>. To watch, if you are not already connected, <a href="https://outlook.office365.com/owa/digitalaccessibilitynetwork@oit.rutgers.edu/groupsubscription.ashx?action=join&source=Exchange&guid=e1beeb99-ab8b-40c7-98cf-c4127b8c5034"> Join our Digital Accessibility Network </a>.
 
 ## 1.2 Student provided with instrcutions/expectations on how to add alt-text to content they create.
 **Silver**
