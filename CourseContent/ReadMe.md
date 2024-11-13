@@ -40,19 +40,19 @@ We've developed a tier sysem to help faculty prioritze and segment making access
         <th>Level</th>
     </tr>
     <tr>
-        <td>All instructor created content must have a useful alt-text for all images. This includes documents, PowerPoint, Canvas content, etc.	</td>
+        <td> <a href="https://github.com/jkhurdan/A11yTraining/blob/main/CourseContent/images.md#11-all-instructor-created-content-must-have-a-useful-alt-text-for-all-images"> All instructor created content must have a useful alt-text for all images. This includes documents, PowerPoint, Canvas content, etc. </a>	</td>
         <td> Bronze </td>
     </tr>
         <tr>
-        <td>Students provided with instructions/ expectations on how to add alt-text to content they create.	</td>
+        <td> <a href="https://github.com/jkhurdan/A11yTraining/blob/main/CourseContent/images.md#12-student-provided-with-instrcutionsexpectations-on-how-to-add-alt-text-to-content-they-create"> Students provided with instructions/ expectations on how to add alt-text to content they create. </a>	</td>
         <td> Silver </td>
     </tr>
         <tr>
-        <td>Long descriptions provided for items where alt-text is not use-able</td>
+        <td> <a href="https://github.com/jkhurdan/A11yTraining/blob/main/CourseContent/images.md#13-long-descriptions-provided-for-items-where-alt-text-is-not-use-able"> Long descriptions provided for items where alt-text is not use-able </a></td>
         <td> Gold </td>
     </tr>
         <tr>
-        <td>Alternative provided where long description is not use-able. </td>
+        <td> <a href="https://github.com/jkhurdan/A11yTraining/blob/main/CourseContent/images.md#14-alternative-provided-where-long-description-is-not-use-able"> Alternative provided where long description is not use-able. </a> </td>
         <td> Gold </td>
     </tr>
 </table>
