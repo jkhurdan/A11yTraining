@@ -65,32 +65,33 @@ We've developed a tier sysem to help faculty prioritze and segment making access
         <th>Level</th>
     </tr>
     <tr>
-        <td>Auto-captions available with ability to turn on/off</td>
+        <td> <a href="https://github.com/jkhurdan/A11yTraining/blob/main/CourseContent/AudioVideo-Prerecorded.md#auto-captions-available-with-ability-to-turn-onoff"> Auto-captions available with ability to turn on/off 
+	</a></td>
         <td>Bronze </td>
     </tr>
         <tr>
-        <td>All video content is in Kaltura</td>
+        <td> <a href="https://github.com/jkhurdan/A11yTraining/blob/main/CourseContent/AudioVideo-Prerecorded.md#all-video-content-is-in-kaltura"> All video content is in Kaltura</td>
         <td>Bronze</td>
     </tr>
         <tr>
-        <td>All items have the ability pause and stop</td>
+        <td> <a href="https://github.com/jkhurdan/A11yTraining/blob/main/CourseContent/AudioVideo-Prerecorded.md#all-items-have-the-ability-pause-and-stop"> All items have the ability pause and stop </a> </td>
         <td>Bronze</td>
     </tr>
         <tr>
-        <td>Enough time to view all items</td>
+        <td> <a href="https://github.com/jkhurdan/A11yTraining/blob/main/CourseContent/AudioVideo-Prerecorded.md#enough-time-to-view-all-items"> Enough time to view all items </a> </td>
         <td> Bronze </td>
     </tr>
         <tr>
-        <td>All items should have professional captioning done</td>
+        <td> <a href="https://github.com/jkhurdan/A11yTraining/blob/main/CourseContent/AudioVideo-Prerecorded.md#all-items-should-have-professional-captioning-done"> All items should have professional captioning done </a> </td>
         <td> Gold </td>
     </tr>
         <tr>
-        <td>
-Items should have extended audio descriptions available </td>
+        <td> <a href="https://github.com/jkhurdan/A11yTraining/blob/main/CourseContent/AudioVideo-Prerecorded.md#items-should-have-extended-audio-descriptions-available">
+Items should have extended audio descriptions available </a> </td>
         <td> Gold </td>
     </tr>
         <tr>
-        <td> Instructor created videos all items are described </td>
+        <td> <a href="https://github.com/jkhurdan/A11yTraining/blob/main/CourseContent/AudioVideo-Prerecorded.md#instructor-created-videos-all-items-are-described"> Instructor created videos all items are described </a>  </td>
         <td> Silver </td>
     </tr>
 </table>
