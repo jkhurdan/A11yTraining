@@ -14,7 +14,7 @@
     <li>Minimum Accessibility standards</li>
     <li>What to Prioritize</li>
     <li>Managing PDFS</li>
-    <li>Starting from scratch</li> 
+    <li> <a href="https://github.com/jkhurdan/A11yTraining/blob/main/CourseContent/A11yChecklist-startfromscratch.md"> Starting from scratch </a> </li> 
 </ul>
 
 ## Canvas Accessibility
