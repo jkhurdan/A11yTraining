@@ -16,14 +16,13 @@ Once uploaded to Kaltura, we recommend you <a href="https://radr.rutgers.edu/res
 ## Auto-captions available with ability to turn on/off 	
 **Bronze Level**
 
+It's important to note that auto-captions are about 70-80% accurate, and may not meet the needs of students with disabilities. Having automated captions is a minimum for all courses at Rutgers. The best practices however (the Gold Standard) is to have professional captioning, or instructor reviewed and edited captioning on all videos. 
+
+If you are utilizing a third-party video, that you are unable to download and utilize Kaltura with, it's important that you are checking that the video has auto-captions available. The video player should allow the user to turn on and off those captions at minimum. In some plateforms like YouTube you are able to filter your search results by those vidoes with captions.
+
+**If you are utilizing a YouTube video**, Kaltura has an ability to <a href="https://knowledge.kaltura.com/help/youtube-entries"> upload that video to Kaltura.</a> It is better to have those items uploaded to Kaltura, then to copy/paste a YouTube link into your course.
 
 
-
-## All items have the ability pause and stop 	
-Bronze
-
-## Enough time to view all items 	
-Bronze
 
 ## Instructor created videos all items are described 	
 Silver
