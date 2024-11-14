@@ -74,11 +74,11 @@ We've developed a tier sysem to help faculty prioritze and segment making access
         <td>Bronze</td>
     </tr>
         <tr>
-        <td> <a href="https://github.com/jkhurdan/A11yTraining/blob/main/CourseContent/AudioVideo-Prerecorded.md#all-items-have-the-ability-pause-and-stop"> All items have the ability pause and stop </a> </td>
+        <td>  All items have the ability pause and stop - <b> Removed </b> </td>
         <td>Bronze</td>
     </tr>
         <tr>
-        <td> <a href="https://github.com/jkhurdan/A11yTraining/blob/main/CourseContent/AudioVideo-Prerecorded.md#enough-time-to-view-all-items"> Enough time to view all items </a> </td>
+        <td> Enough time to view all items  - <b> Removed </b>  </td>
         <td> Bronze </td>
     </tr>
         <tr>
