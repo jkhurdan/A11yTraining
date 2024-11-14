@@ -24,12 +24,27 @@ If you are utilizing a third-party video, that you are unable to download and ut
 
 
 
-## Instructor created videos all items are described 	
-Silver
+## Instructor created videos have all items described 	
+**Silver Level**
+
+In many cases you may be creating content, by voicing over powerpoints, or using a service like PlayPosit to create recorded lecture material. It's important to remember that individuals who are blind will not be able to see that content shown on their screen in a video format. Thus its important to vocalize anything your showing, whether that's images or written text. 
+
+Other important considerations:
+<ul>
+  <li> Avoid using words like this or that, that refer to what visually being shown </li>
+  <li> When demonstrating how to perform functions, avoid saying things like click here. Rather describe what you are doing, i.e click on the home button, click on the icon that says 'remove duplicates', etc </li>
+  <li> Avoid referring to things by color, i.e the green bar</li>
+</ul>
 
 ## All items should have professional captioning done 	
-Gold
+**Gold Level**
+
+If you have a student with a disability in your class, who is approved for captioning, Rutgers Access and Disability Resources (RADR) should have reached out to you. If a student has made themselves known to you, and you have not heard from RADR, have that student reach out to their coordinator to ensure they are submitting all of the appropriate requests.
+
+Its important to note that videos can take up to 2 weeks to caption. Having your videos in Kaltura, along with a list of any third party video sources you might be using, will help RADR submit those items to be captioned.
 
 ## Items should have extended audio descriptions available 	
-Gold
+**Gold Level**
+
+If you have a student who is blind in your course, videos may require audio descriptions. This can 3-4 weeks, and sometimes longer depending on the length of the video. Having your videos in Kaltura, along with a list of any third party video sources you might be using, will help RADR submit those items to be audio described.
 
