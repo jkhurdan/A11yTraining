@@ -6,7 +6,7 @@
 We recommend that all of your Video Content with in Canvas be first uploaded to Katlura. This provides several benefits:
 <ul>
   <li> It creates automated captions for students who may need captioning </li>
-  <li> It allows disability services to request professional captioning on that video, should their be a student with a disability in your class, with out you needing to do any additionl work</li>
+  <li> It allows disability services to request professional captioning on that video, should there be a student with a disability in your class, with out you needing to do any additionl work</li>
 </ul>
 
 <a href="https://canvas.rutgers.edu/external-apps/kaltura/">Learn more about Kaltura </a> and <a href="https://ithelp.rutgers.edu/sp?id=kb_article_view&sysparm_article=KB0016336&sys_kb_id=503c4c631b809a50723a99b51a4bcb09&spa=1#mcetoc_1h8felk6vq"> how to upload videos. </a> 
