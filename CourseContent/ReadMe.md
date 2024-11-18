@@ -103,15 +103,15 @@ Items should have extended audio descriptions available </a> </td>
         <th>Level</th>
     </tr>
     <tr>
-        <td>Auto Captions available</td>
+        <td><a href="https://github.com/jkhurdan/A11yTraining/blob/main/CourseContent/AudioVideo-Live.md#auto-captions-available">Auto Captions available </a></td>
         <td> Bronze</td>
     </tr>
         <tr>
-        <td>All items should have a professional Caption/ASL interpreter available</td>
+        <td><a href="https://github.com/jkhurdan/A11yTraining/blob/main/CourseContent/AudioVideo-Live.md#all-items-should-have-a-professional-captionasl-interpreter-available">All items should have a professional Caption/ASL interpreter available</a></td>
         <td>Gold</td>
     </tr>
         <tr>
-        <td>Instructor created videos all items are described</td>
+        <td><a href="https://github.com/jkhurdan/A11yTraining/blob/main/CourseContent/AudioVideo-Live.md#instructor-created-videos-all-items-are-described">Instructor created videos all items are described </a></td>
         <td>Silver</td>
     </tr>
 </table>
