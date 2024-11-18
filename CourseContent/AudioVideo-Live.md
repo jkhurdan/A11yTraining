@@ -3,8 +3,11 @@
 ## Auto Captions available 	
 **Bronze Level**
 
-Most plateforms will allow users to enable closed captioning. Bellow are some of my favorite tools for auto-captioning videos and conversations in real-time. It's important to note these tools are not designed for post-processing editing. It's also important to note that auto-captions are about 80% accurate.</p>
+Most plateforms will allow users to enable closed captioning. Below are some of my favorite tools for auto-captioning videos and conversations in real-time. It's important to note these tools are not designed for post-processing editing. It's also important to note that auto-captions are about 80% accurate.</p>
 <ul>
+  <li> <a href="https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0059762"> How to enable zoom autocaptions </a> </li>
+  <li> <a href="https://help.webex.com/en-us/article/jbk09c/Show-or-hide-captions-and-highlights-during-a-meeting-or-webinar"> How to enable WebEx AutoCaptions </a> </li>
+  <li> <a href="https://support.microsoft.com/en-us/office/use-live-captions-in-microsoft-teams-meetings-4be2d304-f675-4b57-8347-cbd000a21260"> How to enable MS Teams Auot-Captions </a> </li>
 <li>
 <p><a href="https://zipcaptions.app/" rel="nofollow">Zip Captions</a> | Online -  Free
 <br> This tools allows you to generate captions from any audio your computer is receiving. It allows you to stream those captions to audience members. </p>
@@ -36,5 +39,21 @@ Most plateforms will allow users to enable closed captioning. Bellow are some of
 ## Instructor created videos all items are described
 **Silver Level**
 
+It's important to remember that individuals who are blind will not be able to see that content shown on your screen. Thus its important to vocalize anything your showing, whether that's images or written text. 
+
+Other important considerations:
+<ul>
+  <li> Avoid using words like this or that, that refer to what visually being shown </li>
+  <li> When demonstrating how to perform functions, avoid saying things like click here. Rather describe what you are doing, i.e click on the home button, click on the icon that says 'remove duplicates', etc </li>
+  <li> Avoid referring to things by color, i.e the green bar</li>
+  <li> Providing PowerPoints and other presented materials ahead of time allows the student to review them prior to class</li>
+</ul>
+
+
+
 ## All items should have a professional Caption/ASL interpreter available 	
 **Gold Level**
+
+If you have a student with a disability in your class, who is approved for captioning, Rutgers Access and Disability Resources (RADR) should have reached out to you. If a student has made themselves known to you, and you have not heard from RADR, have that student reach out to their coordinator to ensure they are submitting all of the appropriate requests.
+
+Its important to note that in some cases the captions may be viewed by the student through a thrid-party site, and not directly through your video conferencing tool. If you do not see the professional captions appear, this may be the reason. 
