@@ -24,10 +24,12 @@
     <li> <a href="https://community.canvaslms.com/t5/Canvas-Basics-Guide/How-do-I-use-the-Accessibility-Checker-in-the-Rich-Content/ta-p/618238"> How do I use the Accessibility Checker in the Rich Content Editor? </a></li>
     <li> <a href="https://community.canvaslms.com/t5/Canvas-Basics-Guide/How-do-I-add-captions-to-new-or-uploaded-videos-in-the-Rich/ta-p/618250"> How do I add captions to new or uploaded videos in Canvas? </a></li>
     <li> <a href="https://community.canvaslms.com/t5/Canvas-Developers-Group/Table-Accessibility-in-Canvas/ba-p/277208"> Creating accessible tables in the Rich Content Editor </a></li>
+</ul>
+<ul>
     <li> <a href="https://community.canvaslms.com/t5/Instructor-Guide/Once-I-publish-a-quiz-how-can-I-give-my-students-extra-attempts/ta-p/1242"> Once I publish a Quiz, how can I give my students extra attempts?</li>
     <li> <a href="https://community.canvaslms.com/t5/Canvas-Basics-Guide/What-are-the-Canvas-accessibility-standards/ta-p/1564"> Accessibility Standards within Canvas</a></li>
     <li> <a href="https://community.canvaslms.com/t5/Canvas-Resource-Documents/Canvas-Keyboard-Shortcuts/ta-p/387069"> List of Canvas keyboard shortcuts (PDF)</a></li>
-</ul>
+    </ul>
 
 <h2> Accessibility Guidelines </h2>
 We've developed a tier sysem to help faculty prioritze and segment making accessibility changes into smaller, and more managable chunks. The ultimate goal for all courses is to make a Gold Standard course. Depending on the size and make up of your course you may fall into one of these 3 levels. All courses by should meet at minimum our bronze level.
