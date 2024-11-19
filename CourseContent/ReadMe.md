@@ -17,7 +17,7 @@
     <li> <a href="https://github.com/jkhurdan/A11yTraining/blob/main/CourseContent/A11yChecklist-startfromscratch.md"> Starting from scratch </a> </li> 
 </ul>
 
-## Canvas Accessibility
+<h2> Canvas Accessibility </h2>
 
 <ul>
     <li> <a href="https://community.canvaslms.com/groups/accessibility/blog/2018/05/08/how-to-fix-and-prevent-accessibility-issues-in-your-canvas-course"> How to fix and prevent accessibility issues in your Canvas course (DEAD LINK) </a> </li>
@@ -33,7 +33,7 @@
 We've developed a tier sysem to help faculty prioritze and segment making accessibility changes into smaller, and more managable chunks. The ultimate goal for all courses is to make a Gold Standard course. Depending on the size and make up of your course you may fall into one of these 3 levels. All courses by should meet at minimum our bronze level.
 
 
-### Images
+<h3> Images </h3>
 <table>
     <tr>
         <th>Standard</th>
@@ -58,7 +58,7 @@ We've developed a tier sysem to help faculty prioritze and segment making access
 </table>
 
 	
-### Audio/Video (Pre-recorded)
+<h3> Audio/Video (Pre-recorded) </h3>
 <table>
      <tr>
         <th>Standard</th>
@@ -96,7 +96,7 @@ Items should have extended audio descriptions available </a> </td>
     </tr>
 </table>
 
-### Audio/Vido (Live)
+<h3> Audio/Vido (Live) </h3>
 <table>
      <tr>
         <th>Standard</th>
@@ -116,7 +116,7 @@ Items should have extended audio descriptions available </a> </td>
     </tr>
 </table>
 
-### Document
+<h3> Document </h3>
 <table>
      <tr>
         <th>Standard</th>
@@ -189,7 +189,7 @@ Items should have extended audio descriptions available </a> </td>
 
 </table>
 
-### Course Design
+<h3> Course Design </h3>
 <table>
 	<tr>
 		<th> Standard </th>
