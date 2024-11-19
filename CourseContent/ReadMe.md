@@ -175,6 +175,25 @@ Items should have extended audio descriptions available </a> </td>
     </tr> 
 </table>
 
+<h4> Other Document Resourcse</h4>
+<p>Consult the following resources to learn more about creating an accessible source document. If the document will be saved and offered as a PDF, steps must also be taken in Adobe Acrobat Pro or another software remediation platform to ensure accessibility.</p>
+<ul>
+<li><a href="https://support.office.com/en-us/article/Make-your-Word-documents-accessible-d9bf3683-87ac-47ea-b91a-78dcacb3c66d" role="link">Make your Word documents accessible</a> by Microsoft</li>
+<li><a href="https://webaim.org/techniques/word/" role="link">Creating Accessible Microsoft Word Documents</a> by WebAIM</li>
+<li><a href="https://support.office.com/en-us/article/Make-your-PowerPoint-presentations-accessible-6f7772b2-2f33-4bd2-8ca7-dae3b2b3ef25?ui%3Den-US%26rs%3Den-US%26ad%3DUS" role="link">Make your PowerPoint presentations accessible</a> by Microsoft</li>
+<li><a href="https://webaim.org/techniques/powerpoint/" role="link">PowerPoint accessibility</a> by WebAIM</li>
+<li><a href="https://support.office.com/en-us/article/Make-your-Excel-spreadsheets-accessible-6cc05fc5-1314-48b5-8eb3-683e49b3e593?ui%3Den-US%26rs%3Den-US%26ad%3DUS" role="link">Make your Excel documents accessible</a> by Microsoft</li>
+<li><a href="https://helpx.adobe.com/indesign/using/creating-accessible-pdfs.html" role="link">InDesign accessibility</a> by Adobe</li>
+<li><a href="https://support.google.com/accessibility/answer/6199477?hl=en&amp;ref_topic=9114419&amp;sjid=1841031974687431398-NC" role="link">Make your Google content more accessible</a> by Google</li>
+<li><a href="http://ncdae.org/resources/cheatsheets/" role="link">One-page document cheatsheets</a> by the National Center on Disability and Access to Education (NCDAE)</li>
+</ul>
+<h4>Creating accessible PDFs</h4>
+<ul>
+<li><a href="https://support.office.com/en-us/article/Create-accessible-PDFs-064625e0-56ea-4e16-ad71-3aa33bb4b7ed" role="link">Create accessible PDFs</a> by Microsoft</li>
+<li><a href="https://helpx.adobe.com/acrobat/using/create-verify-pdf-accessibility.html" role="link">Create and verify PDF accessibility using Acrobat Pro</a> by Adobe</li>
+<li><a href="https://www.adobe.com/accessibility/pdf/pdf-accessibility-overview.html" role="link">PDF Accessibility Overview</a> by Adobe</li>
+</ul>
+
 <h3> Course Design </h3>
 <table>
 	<tr>
