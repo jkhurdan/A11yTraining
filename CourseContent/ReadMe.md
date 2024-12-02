@@ -117,40 +117,42 @@ Items should have extended audio descriptions available </a> </td>
 </table>
 
 <h3> Document </h3>
+<p> All Microsoft products have an <a href="https://support.microsoft.com/en-us/office/improve-accessibility-with-the-accessibility-checker-a16f6de0-2f39-4a2b-8bd8-5ad801426c7f"> Accessibility Checker </a> built into their products. We recommend that you run this tool to identify any accessibility issues in your document to fix. </p>
+
 <table>
      <tr>
         <th>Standard</th>
         <th>Level</th>
     </tr>	
-<tr> <td> Meaningful heading structure </td>
+<tr> <td> <a href="https://github.com/jkhurdan/A11yTraining/blob/main/CourseContent/Document.md#-meaningful-heading-structure-"> Meaningful heading structure </a> </td>
 	<td> Bronze </td>
     </tr> 
 <tr> 
-	<td> No use of color or shape to identify meaning </td>
+	<td> <a href="https://github.com/jkhurdan/A11yTraining/blob/main/CourseContent/Document.md#-no-use-of-color-or-shape-to-identify-meaning-">No use of color or shape to identify meaning  </a> </td>
 	<td> Bronze </td>
     </tr>
 <tr>
-	<td> Consistent navigation </td>
+	<td> Consistent navigation -- <b> Remove </b> </td>
 	<td> Bronze </td>
     </tr>
 <tr>
-	<td> Meaningful/Descriptive Links </td>
+	<td> <a href="https://github.com/jkhurdan/A11yTraining/blob/main/CourseContent/Document.md#-meaningfuldescriptive-links-"> Meaningful/Descriptive Links </a> </td>
 	<td> Bronze </td>
     </tr>
 <tr> 
-	<td> Accessible Tables </td>
+	<td> <a href="https://github.com/jkhurdan/A11yTraining/blob/main/CourseContent/Document.md#-accessible-tables--"> Accessible Tables </a> </td>
 	<td> Bronze </td>
     </tr>
 <tr>
-	<td> Use of PPT templates only (PPT) </td>
+	<td> <a href="https://github.com/jkhurdan/A11yTraining/blob/main/CourseContent/Document.md#-use-of-ppt-templates-layouts-only-ppt-"> Use of PPT template Layouts only (PPT) </a> </td>
 	<td> Bronze </td>
     </tr>
 <tr>
-	<td> Provide clean copies of printed/scanned materials. This includes handouts, course reserves, course packs, etc. </td>
+	<td> <a href="https://github.com/jkhurdan/A11yTraining/blob/main/CourseContent/Document.md#-provide-clean-copies-of-printedscanned-materials-this-includes-handouts-course-reserves-course-packs-etc--"> Provide clean copies of printed/scanned materials. This includes handouts, course reserves, course packs, etc. </a> </td>
 	<td> Bronze </td>
     </tr>
 <tr> 
-	<td> Searchable PDFs only </td>
+	<td> <a href="https://github.com/jkhurdan/A11yTraining/blob/main/CourseContent/Document.md#-searchable-pdfs-only-"> Searchable PDFs only </a> </td>
 	<td> Bronze </td>
     </tr>
 <tr> 
