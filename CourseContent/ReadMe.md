@@ -156,11 +156,12 @@ Items should have extended audio descriptions available </a> </td>
 	<td> Bronze </td>
     </tr>
 <tr> 
-	<td> Color contrast meets standards in instructor generated content </td>
+	<td> <a href="https://github.com/jkhurdan/A11yTraining/blob/main/CourseContent/Document.md#-color-contrast-meets-standards-in-instructor-generated-content--"> Color contrast meets standards in instructor generated content </a> </td>
 	<td> Silver </td>
     </tr>
 <tr> 
-	<td> Word/PPT/ instructor created content is accessible </td>
+	<td> Word/PPT/ instructor created content is accessible --
+		<br> <b> Move to Bronze as run accessibility checker? </b> </td>
 	<td> Silver </td>
     </tr>
 <tr> 
