@@ -107,10 +107,22 @@ One of the things it will identify are color contrast issues, in the text that y
 ![image](https://github.com/user-attachments/assets/dc3c3fd0-8e6c-466f-b002-4347b1609be6)
 
 
+<h2> Alternative formats available </h2>
+<b> Gold Level </b>
+If you have a student who is blind in your class, or needs an alternative format for their course materials, you should speak with the students coordinator to better understand those needs.
 
+In some cases, as with those students who are blind, Rutgers Access and Disability Resources will reach out to you ahead of time to collect your course content, and assist with making those items accessible. There are a few things that can greatly help ensure students have access to your content, at the same time as the class:
+<ul>
+	<li> Have your syllabus complete before the start of the semester, and include any required readings, including textbook information. </li>
+	<li> Have your content ready atleast 2 weeks prior to the class you intend on showing it.  </li>
+	<li> Alt-text any images you have in any of the documents you use. You are the content expert, and knowing what those images represent is difficult for whomever may be remediating your document. </li>
+</ul>
 
+<h2> Use high contrast text (e.g. black text on white background). Use an 11-point or larger font size.  </h2>
+<b> Gold Level </b>
+If you have a student with low-vision, you may see that they are approved for enlarged font. The Letter of Accommodation will typically indicate the font size (i.e 14pt font). For any course documents you create- whether that be powerpoints, or word handouts (like review sheets), you should consider:
+<ul>
+	<li> Making sure to use high contrast foreground and background colors. These color combinations include White and Black (i.e black text on a white background, or white text on a black background), Black and Yellow, and Blye and Yellow.  </li>
+	<li> Ensuring your font size is minimally the size indicated on the Letter of Accommodation. If none is listed, using 14pt font should be your standard. If the font size becomes too big for a powerpoint, consider making a word document with the equivalent information as the PPT, that the student can follow along with. </li>
+</ul>
 
-Word/PPT/ instructor created content is accessible 	Silver
-All form items are accessible to a screen reader 	Gold
-Alternative formats available 	Gold
-Use high contrast text (e.g. black text on white background). Use an 11-point or larger font size. 	Gold
