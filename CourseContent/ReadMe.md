@@ -160,20 +160,20 @@ Items should have extended audio descriptions available </a> </td>
 	<td> Silver </td>
     </tr>
 <tr> 
-	<td> Word/PPT/ instructor created content is accessible --
+	<td> Word/PPT/ instructor created content is accessible -- <b> Remove </b>
 		<br> <b> Move to Bronze as run accessibility checker? </b> </td>
 	<td> Silver </td>
     </tr>
 <tr> 
-	<td> All form items are accessible to a screen reader </td>
+	<td> All form items are accessible to a screen reader -- <b> Remove </b> </td>
 	<td> Gold </td>
     </tr> 
 <tr> 
-	<td> Alternative formats available </td>
+	<td> <a href="https://github.com/jkhurdan/A11yTraining/blob/main/CourseContent/Document.md#-alternative-formats-available-"> Alternative formats available </a> </td>
 	<td> Gold </td>
     </tr> 
 <tr> 
-	<td> Use high contrast text (e.g. black text on white background). Use an 11-point or larger font size. </td>
+	<td> <a href="https://github.com/jkhurdan/A11yTraining/blob/main/CourseContent/Document.md#-use-high-contrast-text-eg-black-text-on-white-background-use-an-11-point-or-larger-font-size--"> Use high contrast text (e.g. black text on white background). Use an 11-point or larger font size. </a> </td>
  <td> Gold </td>
     </tr> 
 </table>
