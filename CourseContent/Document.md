@@ -97,7 +97,19 @@ If you are unsure of how to make accessible powerpoints, avoid adding floating t
 <p> Searchable PDFs are those that the text is rendered as acutal text and not images. A simple way of knowing if this is case, is by seeing if you can highlight  the text. If you are unable to, Adobe Acrobat has an <a href="https://www.adobe.com/acrobat/hub/use-ocr-to-read-text-from-image.html"> OCR function </a>, that allows you to digitize that PDF into a searcable PDF. Additionally you can use tools like <a href="https://it.rutgers.edu/digital-accessibility/knowledgebase/sensusaccess/"> Sensus Access </a> to convert your docuemnt. </p>
 
 
-Color contrast meets standards in instructor generated content 	Silver
+<h2> Color contrast meets standards in instructor generated content  </h2>
+<b>Silver Level </b>
+<p> For any content you create, its important that you rurn the <a href="https://support.microsoft.com/en-us/office/improve-accessibility-with-the-accessibility-checker-a16f6de0-2f39-4a2b-8bd8-5ad801426c7f"> Accessibility Checker </a> in word. 
+
+One of the things it will identify are color contrast issues, in the text that you wrote. It will also suggest font color changes to help meet guidelines.
+</p>
+
+![image](https://github.com/user-attachments/assets/dc3c3fd0-8e6c-466f-b002-4347b1609be6)
+
+
+
+
+
 Word/PPT/ instructor created content is accessible 	Silver
 All form items are accessible to a screen reader 	Gold
 Alternative formats available 	Gold
