@@ -204,7 +204,7 @@ Items should have extended audio descriptions available </a> </td>
 		<th> Level </th>
 	</tr>
 	<tr>
-		<td> No flashing lights or items that may cause seizures </td>
+		<td> <a href="https://www.epilepsy.com/what-is-epilepsy/seizure-triggers/photosensitivity"> No flashing lights or items that may cause seizures </a> </td>
 		<td> Bronze </td>
 	</tr>
 		<tr>
@@ -212,15 +212,15 @@ Items should have extended audio descriptions available </a> </td>
 		<td> Bronze </td>
 	</tr>
 		<tr>
-		<td> Consistent Navigation and course structure </td>
+		<td> <a href="https://accessibility.huit.harvard.edu/use-consistent-navigation-and-orientation"> Consistent Navigation and course structure </a> </td>
 		<td> Bronze </td>
 	</tr>
 		<tr>
-		<td>Hide unused tools </td>
+		<td> <a href="https://support.csuchico.edu/TDClient/1984/Portal/KB/ArticleDet?ID=113496#:~:text=From%20the%20course%20sidebar%2C%20select,navigation%20item%20to%20hide%20it."> Hide unused tools </a> </td>
 		<td> Bronze </td>
 	</tr>
 		<tr>
-		<td> Clear Technical instruction </td>
+		<td> <a href="https://www.w3.org/WAI/WCAG2/supplemental/patterns/o4p07-step-instructions/"> Clear Technical instruction </a> </td>
 		<td> Bronze </td>
 	</tr>
 		<tr>
@@ -248,11 +248,11 @@ Items should have extended audio descriptions available </a> </td>
 		<td> Gold </td>
 	</tr>
 		<tr>
-		<td>Accessible Syllabus </td>
+		<td> <a href="https://www.washington.edu/doit/equal-access-universal-design-your-syllabus"> Accessible Syllabus </a> </td>
 		<td> Bronze </td>
 	</tr>
 			<tr>
-		<td>Readings, test dates, assignments clearly identified along with due dates </td>
+		<td> <a href="https://citl.illinois.edu/citl-101/teaching-learning/make-your-course-accessible/canvas-accessibility-guides/accessible-course-design-guide"> Readings, test dates, assignments clearly identified along with due dates </a> </td>
 		<td> Bronze </td>
 	</tr>
 			<tr>
