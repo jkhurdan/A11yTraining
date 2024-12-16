@@ -1,0 +1,450 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title> Course Content Helper </title>
+    <meta name="description" content="Course Content Grader" />
+     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+        integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href=".\style-Math.css">
+
+<!-- Style Guide to be moved to css file-->
+<style>
+  #response {
+    display: none;
+  }
+  
+  meter {
+  width: 80%;
+  height: 25px;
+}
+
+  #Final {
+    display: none;
+  }
+  </style>
+
+</head>
+<body>
+  <main> 
+    <h1> Web Content Helper </h1>
+    <blockquote> 
+      <b> Purpose of form: </b>
+      <p> In order to help faculty prioritze the changes that will have the most impact on students in their class, we've created a good, better, best system for course accessibility. The base-level for all courses is our Bronze Model, with increasing levels of accessibility/usability as courses become larger or students with disabilities are involved in the course. </p>
+      <p> This system is in beta-testing right now, and we appreciate any feedback. </p> 
+    </blockquote>
+
+  
+    <h2> General Information </h2>
+    <form id="Q1LOA">
+    <fieldset>
+        <legend>Did you receive a Letter of Accommodation?</legend>
+        <div>
+          <input type="radio" id="Yes" name="LOA" value="Yes"  />
+          <label for="Yes">Yes</label>
+        </div>
+      
+        <div>
+          <input type="radio" id="No" name="LOA" value="No" />
+          <label for="No">No</label>
+        </div>
+      
+        <div>
+          <input type="radio" id="TooSoon" name="LOA" value="Maybe" />
+          <label for="Maybe">The course hasn't started yet. </label>
+        </div>
+
+        <div>
+          <input type="radio" id="WhatLOA" name="LOA" value="WhatLOA" checked />
+          <label for="WhatLOA"> What's a Letter Of Accommodation? </label>
+        </div>
+      </fieldset>
+<p></p>
+    </form>
+
+
+    <div id="response">
+      <!-- This div will be displayed based on the selected option -->
+
+      <div id="silver-gold">
+        <b> Great! </b> Given the information you've provided, you may be in our <b>Silver</b> or <b> Gold </b> category. Let's learn a little bit more about what you're students are approved for: 
+        <p></p>
+    
+        <form id="accommodations" action="#" method="post">
+          <fieldset>
+            <legend>What accommodations are your students approved for </legend>
+            <div>
+              <input type="checkbox" id="SR" name="Accom" value="SR" />
+              <label for="SR">Use of a screen reader </label>
+            </div>
+            <div>
+              <input type="checkbox" id="FM" name="Accom" value="FM"  />
+              <label for="FM">Use of an FM system </label>
+            </div>
+                  
+            <div>
+              <input type="checkbox" id="ASLCART" name="Accom" value="ASL" />
+              <label for="ASLCART"> American Sign Language or Communication Access in Realtime Translation  </label>
+            </div>
+                  
+            <div>
+              <input type="checkbox" id="Captioning" name="Accom" value="Caption" />
+              <label for="Captioning">Captioning on Videos </label>
+            </div>
+                  
+            <div>
+              <input type="checkbox" id="EL" name="Accom" value="EL" />
+              <label for="EL">Enlarged Font  </label>
+            </div>
+
+            <div>
+              <input type="checkbox" id="Exams" name="Accom" value="exams"/>
+              <label for="Exams">Extended Time on Exams </label>
+            </div>
+          
+            <div>
+              <input type="checkbox" id="AFT" name="Accom" value="AFT"/>
+              <label for="AFT">Alternate Format Text </label>
+            </div>
+            
+            <div>
+              <input type="checkbox" id="Notetaking" name="Accom" value="NT" />
+              <label for="Notetaking">Use of a Note-taker </label>
+            </div>
+        
+          </fieldset>
+        
+          <button onclick="FinalResults1()"> Submit Form </button>
+        </form>
+      </div> 
+
+      <div id="no-response"> 
+        <b> Great! </b> Given the information you've provided, you may be in our <b>Bronze</b> or <b> Silver </b> category. Let's learn a little bit more about what your course: 
+        <p></p>
+        <form id="ClassSize">
+          <fieldset>
+              <legend>What is the total size of your classs?</legend>
+              <div>
+                <input type="radio" id="Large" name="ClassSize" value="Large"  />
+                <label for="Large"> 1500 students or more </label>
+              </div>
+            
+              <div>
+                <input type="radio" id="Samll" name="ClassSize" value="Small"  />
+                <label for="Small">Less than 1500 students </label>
+              </div>
+            </fieldset>
+      <p></p>
+      <fieldset>
+        <legend>Describe the type of elements you are using in your course: </legend>
+        <div>
+          <input type="checkbox" id="PPT" name="ClassContent" value="PPT" />
+          <label for="PPT">PowerPoints </label>
+        </div>
+        <div>
+          <input type="checkbox" id="Handouts" name="ClassContent" value="Handouts" />
+          <label for="Handouts">Hand Outs </label>
+        </div>
+        <div>
+          <input type="checkbox" id="Videos" name="ClassContent" value="Videos" />
+          <label for="Videos"> Videos </label>
+        </div>
+ 
+        </fieldset> 
+          </form>
+          <button onclick="FinalResults2()"> Submit Form </button>
+      </div>
+      <p id="maybe-response">Maybe Options.</p>
+
+   
+    </div>
+
+    <div id="WhatsALOA">
+      <h2> Letters of Accommodation </h2>
+      <p> A Letter of Accommodations (LOA) is a document provided by the Office of Disability Services that explains to faculty the reasonable accommodations to be provided to a student. This letter typically will also provide the name of their disability coordinator, along with key contact information should you have question. For questions or to <a href="https://ods.rutgers.edu/letter-accommodation">learn more about LOAs </a>, visit the ODS website.  </p>
+      <p> Once you've reviewed your LOAs, please continue to the form above. </p>
+    </div>
+
+
+ <!-- JAVASCRIPT Controls for General Information Form -->   
+<script>
+  const form = document.getElementById('Q1LOA');
+  const responseDiv = document.getElementById('response');
+  
+  form.addEventListener('input', (e) => {
+    if (e.target.type === 'radio') {
+      if (e.target.value === 'Yes') {
+        responseDiv.style.display = 'block';
+        document.getElementById('silver-gold').style.display = 'block';
+        document.getElementById('no-response').style.display = 'none';
+        document.getElementById('maybe-response').style.display = 'none';
+        document.getElementById('WhatsALOA').style.display = 'none';
+      } else if (e.target.value === 'No' || e.target.value === 'Maybe') {
+        responseDiv.style.display = 'block';
+        document.getElementById('silver-gold').style.display = 'none';
+        document.getElementById('no-response').style.display = 'block';
+        document.getElementById('maybe-response').style.display = 'none';
+        document.getElementById('WhatsALOA').style.display = 'none';
+      } else if (e.target.value === 'WhatLOA') {
+        responseDiv.style.display = 'block';
+        document.getElementById('silver-gold').style.display = 'none';
+        document.getElementById('no-response').style.display = 'none';
+        document.getElementById('maybe-response').style.display = 'none';
+        document.getElementById('WhatsALOA').style.display = 'block';
+      }
+    }
+  });
+</script>
+
+<!-- JAVASCRIPT Controls for If you have a LOA-->
+
+<script>
+  const form2 = document.getElementById('accommodations');
+  var SRisChecked = document.getElementById('SR');
+  var FMisChecked = document.getElementById('FM');
+  var ASLCARTisChecked = document.getElementById('ASLCART');
+  var CaptionisChecked = document.getElementById('Captioning');
+  var ELisChecked = document.getElementById('EL');
+  var ExamsisChecked = document.getElementById('exams');
+  var AFTisChecked = document.getElementById('AFT');
+  var NTisChecked = document.getElementById('NT');
+
+  
+  function LevelCheck(){
+    if (SRisChecked.checked || FMisChecked.checked || ASLCARTisChecked.checked || CaptionisChecked.checked || ELisChecked.checked){
+        document.write("Your course falls into the <b> Gold Category </b> of our minimum course accessibility standards. This most likely means that you have a student with a sever disability in your course, such as someone who is blind, d/Deaf or Hard of Hearing. We recommend you reach out to the students coordinator to ensure you are getting appropriate help with the items below <p> Important to note: Given the nature of the students disability, we've only prioritized those items that would make the most impact to a Gold level standard. The rest have remained as Silver.");
+    }
+    else { 
+        document.write("Your course falls into the <b> Silver Category </b> of our minimum course accessibility standards. This means you have a student with a disability in your class, but the nature of their disability does not warrant the higher level of standards required for Gold.");
+    }
+  }  
+
+  function ImageCheck(){
+    if (SRisChecked.checked || ELisChecked.checked) {
+        document.write("<h2> Images </h2>" +
+        "<b> Gold Level - Prioritize </b> <br>" +
+        "<ul>" +
+            "<li> All instructor created content must have a useful alt-text for all images.  This includes documents, PowerPoint, Canvas content, etc. </li>" +
+            "<li> Students provided with instructions/ expectations on how to add alt-text to content they create. </li>" +
+            "<li> Long descriptions provided for items where alt-text is not use-able </li>" +
+            "<li> Alternative provided where long description is not use-able. </li>" +            
+        "</ul>" +
+            "<h2> Audio Descriptions </h2>" +
+            "<b> Gold Level - Prioritize </b> <br> If the student is approved for Enlarged font, we recommend you reach you reach out to the students coordinator to see if this is needed. <br>" +
+            "<ul>" +
+            "<li> All pre-recorded video content should have extended Audio Descriptions  </li>" +
+            "<li> All images or other content presented (via powerpoint, etc) during lectures should be verbally described </li>" +      
+            "<li> All instructor created videos, ie playposit videos, needs to have all images or other visible content verbally described  </li>" +      
+        "</ul>" 
+    )  ;
+    }
+    else {
+        document.write("<h2> Images </h2>" +
+        "<b> Silver Level </b> <br>" +
+        "<ul>" +
+            "<li> All instructor created content must have a useful alt-text for all images.  This includes documents, PowerPoint, Canvas content, etc. </li>" +
+            "<li> Students provided with instructions/ expectations on how to add alt-text to content they create. </li>" +          
+        "</ul>")  ;
+    }
+  }
+
+  function VideoCheck(){
+    if (FMisChecked.checked || ASLCARTisChecked.checked || CaptionisChecked.checked){
+        document.write("<h2> Audio/Video (Pre-Recorded)</h2>" +
+        "<b> Gold Level - Prioritize  </b> <br>" +
+        "<ul>" +
+            "<li> All Video Content is in Kaltura Media Space </li>" +
+            "<li> All items have the ability to pause and stop </li>" +
+            "<li> All videos have professional captioning </li>" +           
+        "</ul>" +
+            "<h2> Audio/Video (Live) </h2>" +
+            "<b> Gold Level - Prioritize </b> <br>" +
+            "<ul>" +
+            "<li> All live audio/video has professional captioning or ASL available </li>" + 
+        "</ul>" 
+        );
+    }
+    else {
+        document.write("<h2> Audio/Video (Pre-Recorded)</h2>" +
+        "<b> Silver Level </b> <br>" +
+        "<ul>" +
+            "<li> All Video Content is in Kaltura Media Space </li>" +
+            "<li> All items have the ability to pause and stop </li>" +
+            "<li> All videos have auto-captioning available (at minimum)  </li>" +           
+        "</ul>" +
+            "<h2> Audio/Video (Live) </h2>" +
+            "<b> Silver Level </b> <br>" +
+            "<ul>" +
+            "<li> All live audio/video has auto captions turned on/ available </li>" + 
+        "</ul>" 
+        );
+    }
+  }
+
+  function DocumentCheck(){
+    if (SRisChecked.checked || ELisChecked.checked ){
+        document.write("<h2> Documents</h2>" +
+        "<b> Gold Level - Prioritize </b> <br>" +
+        "<ul>" +
+            "<li> Meaningful heading structure </li>" +
+            "<li>  No use of color or shape to identify meaning </li>" +
+            "<li> Consistent navigation </li>" + 
+            "<li> Meaningful/Descriptive Links </li>" +   
+            "<li> Accessible Tables </li>" + 
+            "<li> Use of PPT templates only (PPT) </li>" + 
+            "<li> Provide clean copies of printed/scanned materials. This includes handouts, course reserves, course packs, etc. </li>" + 
+            "<li> Searchable PDFs only </li>" + 
+            "<li> Word/PPT/ instructor  created content is accessible </li>" + 
+            "<li>  All form items are accessible to a screen reader </li>" + 
+            "<li> Alternative formats available </li>" + 
+            "<li> Use high contrast text (e.g. black text on white background) </li>" + 
+            "<li> Use an 11-point or larger font size. </li>" + 
+        "</ul>" 
+        );
+    }
+    else {
+        document.write("<h2> Documents</h2>" +
+        "<b> Silver Level </b> <br>" +
+        "<ul>" +
+            "<li> Meaningful heading structure </li>" +
+            "<li>  No use of color or shape to identify meaning </li>" +
+            "<li> Consistent navigation </li>" + 
+            "<li> Meaningful/Descriptive Links </li>" +   
+            "<li> Accessible Tables </li>" + 
+            "<li> Use of PPT templates only (PPT) </li>" + 
+            "<li> Provide clean copies of printed/scanned materials. This includes handouts, course reserves, course packs, etc. </li>" + 
+            "<li> Searchable PDFs only </li>" + 
+            "<li> Word/PPT/ instructor  created content is accessible </li>" + 
+        "</ul>" 
+        );
+    }
+  }
+
+  function CourseDesignCheck(){
+    if (SRisChecked.checked || FMisChecked.checked || ASLCARTisChecked.checked || CaptionisChecked.checked || ELisChecked.checked ){
+        document.write("<h2> Course Design</h2>" +
+        "<b> Gold Level - Prioritize </b> <br>" +
+        "<ul>" +
+       "<li> 	No flashing lights or items that may cause seizures	</li>" +
+        "<li> 	Use of recommended tools	</li>" +
+        "<li> 	Consistent Navigation and course structure	</li>" +
+        "<li> 	Hide unused tools	</li>" +
+        "<li> 	Clear Technical instruction	</li>" +
+        "<li> 	Accessibility Statement included with 3rd party tools	</li>" +
+        "<li> 	Use of Modules for course items	</li>" +
+        "<li> 	Linking due dates into Calendar (all assignments in canvas)	</li>" +
+        "<li> 	Use publishers who offer accessible electronic copies of books and any course labs or management systems	</li>" +
+        "<li> 	Identify Textbooks selections atleast 6-8 weeks before classes begin	</li>" +
+        "<li> 	Make the class syllabus available six to eight weeks before classes begin	</li>" +
+        "<li> 	Acessible Syllabus	</li>" +
+        "<li> 	Readings, test dates, assignments clearly identified along with due dates	</li>" +
+        "<li> 	Have Course materials created at least 2 weeks prior to the class	</li>" +
+        "</ul>" 
+        );
+    }
+    else {
+        document.write("<h2> Course Design</h2>" +
+        "<b> Silver Level </b> <br>" +
+        "<ul>" +
+       "<li> 	No flashing lights or items that may cause seizures	</li>" +
+        "<li> 	Use of recommended tools	</li>" +
+        "<li> 	Consistent Navigation and course structure	</li>" +
+        "<li> 	Hide unused tools	</li>" +
+        "<li> 	Clear Technical instruction	</li>" +
+        "<li> 	Accessibility Statement included with 3rd party tools	</li>" +
+        "<li> 	Use of Modules for course items	</li>" +
+        "<li> 	Linking due dates into Calendar (all assignments in canvas)	</li>" +
+        "<li> 	Use publishers who offer accessible electronic copies of books and any course labs or management systems	</li>" +
+        "<li> 	Acessible Syllabus	</li>" +
+        "<li> 	Readings, test dates, assignments clearly identified along with due dates	</li>" +
+        "</ul>" 
+        );
+    }
+  }
+
+  function FinalResults1() {
+    document.write("<h1> Results </h1>" +
+        "Based on the information you provided we recommend that you focus on the items below: <p>");
+    
+        LevelCheck();
+        ImageCheck();
+        VideoCheck();
+        DocumentCheck();
+        CourseDesignCheck();
+  }
+  
+  
+  </script>
+
+
+<!-- If NO- Class Size Script -->
+<script>
+  const form3 = document.getElementById('ClassSize');
+  var LargeisChecked = document.getElementById('Large');
+  var PPTisChecked = document.getElementById('PPT');
+  var HandoutsisChecked = document.getElementById('Handouts')
+  var VideosisChecked = document.getElementById('Videos');
+
+
+  function ClassSizeCheck() {
+    if (LargeisChecked.checked) {
+      document.write("Your course falls into the <b> Silver Category </b> of our minimum course accessibility standards. This means that based on your class size, it is likely you have a student with a disability who has not disclosed themselves to you.");
+      if (PPTisChecked.checked) {
+        document.write("<h3> Powerpoint </h3>" +
+        "<p> We recommend you check out the following items: </p>" +
+        "<ul>" +
+        "<li> <a href='https://support.office.com/en-us/article/Make-your-PowerPoint-presentations-accessible-6f7772b2-2f33-4bd2-8ca7-dae3b2b3ef25?ui%3Den-US%26rs%3Den-US%26ad%3DUS'> Make your PowerPoint presentations accessible</a> by Microsoft</li>" +
+        "<li><a href='https://webaim.org/techniques/powerpoint/'> PowerPoint accessibility</a> by WebAIM</li>" +
+        "</ul>")
+      }
+      if (HandoutsisChecked.checked) {
+        document.write("<h3> Hand Outs </h3> " +
+        "<p> We recommend you check out the following items: </p>" +
+        "<ul>" +
+        "<li><a href='https://support.office.com/en-us/article/Make-your-Word-documents-accessible-d9bf3683-87ac-47ea-b91a-78dcacb3c66d'>Make your Word documents accessible</a> by Microsoft</li>" +
+        "<li><a href='https://webaim.org/techniques/word/'>Creating Accessible Microsoft Word Documents</a> by WebAIM</li>" +
+        "</ul>")
+      }
+      if (VideosisChecked.checked) {
+        document.write("<h3> Videos </h3> Some info on Silver stuff")
+      }
+    }
+    else { 
+        document.write("Your course falls into the <b> Bronze Category </b> of our minimum course accessibility standards.");
+        if (PPTisChecked.checked) {
+        document.write("<h3> Powerpoint </h3> Some info on bronze stuff" +
+        "<p> We recommend you check out the following items: </p>" +
+        "<ul>" +
+        "<li> <a href='https://support.office.com/en-us/article/Make-your-PowerPoint-presentations-accessible-6f7772b2-2f33-4bd2-8ca7-dae3b2b3ef25?ui%3Den-US%26rs%3Den-US%26ad%3DUS'> Make your PowerPoint presentations accessible</a> by Microsoft</li>" +
+        "<li><a href='https://webaim.org/techniques/powerpoint/'> PowerPoint accessibility</a> by WebAIM</li>" +
+        "</ul>")
+      }
+  
+       if (HandoutsisChecked.checked) {
+        document.write("<h3> Hand Outs </h3> Some info on bronze stuff" +
+        "<p> We recommend you check out the following items: </p>" +
+        "<ul>" +
+        "<li><a href='https://support.office.com/en-us/article/Make-your-Word-documents-accessible-d9bf3683-87ac-47ea-b91a-78dcacb3c66d'>Make your Word documents accessible</a> by Microsoft</li>" +
+        "<li><a href='https://webaim.org/techniques/word/'>Creating Accessible Microsoft Word Documents</a> by WebAIM</li>" +
+        "</ul>")
+      }
+       if (VideosisChecked.checked) {
+        document.write("<h3> Videos </h3> Some info on bronze stuff")
+      }
+    }
+    }
+  
+  function FinalResults2() {
+    document.write("<h1> Results </h1>" +
+       "Based on the information you provided we recommend that you focus on the items below: <p>");
+    ClassSizeCheck();
+  }
+
+
+</script>
+
+
+</main>
+</body>
+</html>
+
+
