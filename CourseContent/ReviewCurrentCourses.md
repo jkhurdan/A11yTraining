@@ -25,3 +25,5 @@ With all of your PDFs you should follow our PDF workflow:
 ### Resource Selection
 With some documents, you may find that the original is too difficult for even a sighted person to read. Scans with text cut off, smudges, faded writing, etc may not be feasible to make into an accessible document. You should review your course resources to make sure that the resources provided are legible. 
 
+### Utilize native Canvas tools over Third-Party Apps
+When possible, you should utilize native Canvas tools like Canvas Discussions, Quizzes, and Modules. We have tested these items and have found to be accessible. Using external tools may provide inaccessible experiences to some students.
