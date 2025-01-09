@@ -22,5 +22,6 @@ With all of your PDFs you should follow our PDF workflow:
 3. Reformat your PDF. If your document was originally a word or PPT file, we recommend uploading that version opposed to the PDF. You can upload read only files to ensure the content remains the same. PDFs that could be webforms or module pages, we recommend converting to webforms/html pages.
 4. Remediate the remainder. For those PDFs that truely need to be PDFS, we reccomend you utilize tools like SensusAccess to provide text-based documents to your students.
 
-
+### Resource Selection
+With some documents, you may find that the original is too difficult for even a sighted person to read. Scans with text cut off, smudges, faded writing, etc may not be feasible to make into an accessible document. You should review your course resources to make sure that the resources provided are legible. 
 
