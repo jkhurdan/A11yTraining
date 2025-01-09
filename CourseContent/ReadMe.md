@@ -10,7 +10,7 @@
 
 <h2> Suggested Course Road Maps </h2>
 <ul>
-    <li>Reviewing existing courses</li>
+    <li><a href="https://github.com/jkhurdan/A11yTraining/blob/main/CourseContent/ReviewCurrentCourses.md">Reviewing existing courses</a></li>
     <li>Minimum Accessibility standards</li>
     <li><a href="https://jkhurdan.github.io/A11yTraining/CourseContent/CourseContentHelperV2.html">What to Prioritize</a></li>
     <li>Managing PDFS</li>
