@@ -7,7 +7,7 @@ We recommend following the steps outlined below to help you improve the accessib
 2. Run [Canvas Ally](https://canvas.rutgers.edu/external-apps/ally/)
  <br> Ally is a software tool that focuses on making digital course content more accessible. It helps instructors gain detailed insight into the accessibility of their course content, provides guidance to faculty and instructors on how to improve the accessibility of their content, and automatically provides students with a range of more accessible alternative formats.
 3. [Determine your priorities](https://jkhurdan.github.io/A11yTraining/CourseContent/CourseContentHelperV2.html)
-   <br> We've developed a tool to help you determine what parts of your course who should focus on. If you have already started the semester we recommend you:
+   <br> We've developed a tool to help you determine what parts of your course you should focus on. If you have already started the semester we recommend you:
    * Start with your syllabuus and any documents a student will refer to over the course of the semester
    * Review the items in provided in the priorities guide
    * Review course content for this week moving forward
