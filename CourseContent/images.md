@@ -3,17 +3,17 @@
 ## 1.1 All instructor created content must have a useful alt-text for all images.
 **Bronze Level**
 
-Alternative text for images, also known as alt text, is a description of an image read by assistive technology. It also helps search engines understand the content of an image, which can improve SEO.
+Alternative text for images, also known as alt text, is a description of an image read by assistive technology. It also helps search engines understand the content of an image, which can improve SEO, search engine optimization.
 
 The alt text should convey the purpose and function of the non-text content. This means that the same image may have different alt text depending on its context and purpose. For example, an image used for marketing will have different alt text than the same image used for training purposes.
 
-Alt text is more art than science. The only "wrong" is not including alt text where it is needed. Considering alt text on a scale of "good" versus "better" will you help craft more useful alt text.
+Alt text is more of an art than a science. The only "wrong" is not including alt text where it is needed. Considering alt text on a scale of "good" versus "better" will you help craft more useful alt text.
 
 <b> How to add an alternative text to: </b>
 <ul>
   <li> 
-<a href="https://support.microsoft.com/en-us/office/add-alternative-text-to-a-shape-picture-chart-smartart-graphic-or-other-object-44989b2a-903c-4d9a-b742-6a75b451c669"> A microsoft Word or PowerPoint file </a> </li>
-<li> <a href="https://support.google.com/docs/answer/6199477?hl=en"> A google Document or Presentation </a></li>
+<a href="https://support.microsoft.com/en-us/office/add-alternative-text-to-a-shape-picture-chart-smartart-graphic-or-other-object-44989b2a-903c-4d9a-b742-6a75b451c669"> A Microsoft Word or PowerPoint file </a> </li>
+<li> <a href="https://support.google.com/docs/answer/6199477?hl=en"> A Google Document or Presentation </a></li>
 </ul>
 
 ### General Guidelines
@@ -25,12 +25,12 @@ Alt text is more art than science. The only "wrong" is not including alt text wh
 </ul>
 
 ### Creating good alt-text
-Our office has a training on <a href="https://rutgersconnect.sharepoint.com/:f:/r/sites/oit-digitalaccessibilitynetwork/Shared%20Documents/Trainings/2024-06-17-%20Image%20Guidelines?csf=1&web=1&e=ueBYZc"> how to create great alt-text </a>. To watch, if you are not already connected, <a href="https://outlook.office365.com/owa/digitalaccessibilitynetwork@oit.rutgers.edu/groupsubscription.ashx?action=join&source=Exchange&guid=e1beeb99-ab8b-40c7-98cf-c4127b8c5034"> Join our Digital Accessibility Network </a>.
+Our office has a training on <a href="https://rutgersconnect.sharepoint.com/:f:/r/sites/oit-digitalaccessibilitynetwork/Shared%20Documents/Trainings/2024-06-17-%20Image%20Guidelines?csf=1&web=1&e=ueBYZc"> how to create great alt-text </a>. To watch, if you are not already connected, <a href="https://outlook.office365.com/owa/digitalaccessibilitynetwork@oit.rutgers.edu/groupsubscription.ashx?action=join&source=Exchange&guid=e1beeb99-ab8b-40c7-98cf-c4127b8c5034"> join our Digital Accessibility Network </a>.
 
 ## 1.2 Student provided with instrcutions/expectations on how to add alt-text to content they create.
 **Silver level**
 
-In many cases faculty may be using third-party software that allows students to create content in discussion forums, messages, etc. It's important that you are providing students with directions on how to make their content accessible. 
+In many cases, faculty may be using third-party software that allows students to create content in discussion forums, messages, etc. It's important that you are providing students with directions on how to make their content accessible. 
 
 Below is an example for the Canvas discussions thread
 
