@@ -14,23 +14,23 @@ Most plateforms will allow users to enable closed captioning. Below are some of 
 </li>
 <li>
 <p><a href="https://support.google.com/chrome/answer/10538231?hl=en" rel="nofollow">Google Live Caption</a> | Google Chrome - Free
-<br> Built into google chrome and chrome books, you can have any video automatically display captions. See googles <a href="https://support.google.com/chrome/answer/10538231?hl=en" rel="nofollow">instructions on how to turn on live caption</a>.</p>
+<br> Built into google chrome and chrome books, you can have any video automatically display captions. See Google's <a href="https://support.google.com/chrome/answer/10538231?hl=en" rel="nofollow">instructions on how to turn on live caption</a>.</p>
 </li>
 <li>
 <p><a href="https://www.android.com/accessibility/live-transcribe/" rel="nofollow">Live Transcribe</a> | Android - Free
-<br> Built into all android devices, this allows you to instantly get captions on any video, or audio coming into the microphone. This can is a great way of getting instant auto-captions for real-time conversations</p>
+<br> Built into all Android devices, this allows you to instantly get captions on any video, or audio coming into the microphone. This is a great way of getting instant auto-captions for real-time conversations</p>
 </li>
 <li>
-<p><a href="https://support.apple.com/guide/iphone/get-live-captions-of-spoken-audio-iphe0990f7bb/ios" rel="nofollow">iOS Live Captions</a> | Iphones/iOS devices - Free
+<p><a href="https://support.apple.com/guide/iphone/get-live-captions-of-spoken-audio-iphe0990f7bb/ios" rel="nofollow">iOS Live Captions</a> | iPhones/iOS devices - Free
 <br> With this you can get real time auto-captioning of spoken text, as well as any video displayed on your phone.</p>
 </li>
 <li>
 <p><a href="https://support.apple.com/guide/mac-help/use-live-captions-mchldd11f4fd/mac" rel="nofollow">MacOS Live Captions</a> | MacOS devices- Free
-<br> Provides real-time auto captions for any audio in any app including facetime, zoom, or videos played in your browser.</p>
+<br> Provides real-time auto captions for any audio in any app including Facetime, Zoom, or videos played in your browser.</p>
 </li>
 <li>
 <p><a href="https://support.microsoft.com/en-us/windows/use-live-captions-to-better-understand-audio-b52da59c-14b8-4031-aeeb-f6a47e6055df#bkmk_turnoncaptions" rel="nofollow">Windows Live Captions</a> | Windows - Free
-<br> Provides real-time auto captioning for any video played on your windows device.</p>
+<br> Provides real-time auto captioning for any video played on your Windows device.</p>
 </li>
 <li>
 <p><a href="https://otter.ai/home" rel="nofollow">Otter Ai</a> | Free- with paid upgrades
@@ -43,8 +43,8 @@ It's important to remember that individuals who are blind will not be able to se
 
 Other important considerations:
 <ul>
-  <li> Avoid using words like this or that, that refer to what visually being shown </li>
-  <li> When demonstrating how to perform functions, avoid saying things like click here. Rather describe what you are doing, i.e click on the home button, click on the icon that says 'remove duplicates', etc </li>
+  <li> Avoid using words like "this" or "that", which refer to what visually being shown without detail </li>
+  <li> When demonstrating how to perform functions, avoid saying things like "click here". Instead, describe what you are doing, i.e click on the home button, click on the icon that says 'remove duplicates', etc </li>
   <li> Avoid referring to things by color, i.e the green bar</li>
   <li> Providing PowerPoints and other presented materials ahead of time allows the student to review them prior to class</li>
 </ul>
