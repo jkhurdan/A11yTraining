@@ -8,7 +8,7 @@ Have I gotten the right people on the bus and in the right seats?
 
 Developing a course takes many groups of people and skillsets. It is highly recommended that you set up a meeting to talk with at least the following people:
 <ul>
-   <li> Office of Disability Services- They can provide you with great insights into how to make items more accessible. However, more importantly, they can help troubleshoot solutions to problems you may encounter with students as they have firsthand experience working with them and their other instructors. </li>
+   <li> Office of Disability Services- They can provide you with great insights into how to make items more accessible. More importantly, they can help troubleshoot solutions to problems you may encounter with students as they have firsthand experience working with them and their other instructors. </li>
    <li>  IT/LMS management- The folks who manage your LMS know it inside and out, and chances are the problems you encounter may not be unique. Working with them from the get-go will help you better design your course for all students.</li>
    <li>  Libraries- Libraries are essentially warehouses of information, and librarians have spent countless hours sifting through and collecting those pearls of wisdom.</li>
    <li>  Classroom Support- Depending on the structure of your course, if you are a hybrid course, or fully in-person, be sure to work with your classroom support team to understand what audio options are available, as well as wifi. Students who use CART may rely on that connection to view the live stream on their laptops or mobile devices.</li>
@@ -16,22 +16,22 @@ Developing a course takes many groups of people and skillsets. It is highly reco
  
 ### What are the academic standards of the course?
 
-It’s important that you are determining what the academic standards of the course are. These will be used to determine whether or not an accommodation is considered as ‘reasonable.’ No accommodation should violate the academic standards of the course, and each student, regardless of disability, should be expected to meet those items to successfully pass the course. In many cases, people restrict items out of fear that students may be able to use those items for negative intent, opposed to that their use will jeopardize the standards of the course. For example, the use of a calculator will violate the standards of an Algebra I course, where the student is expected to memorize multiplication tables. This may not be true of a Psychology 3 course that requires the student to apply appropriate statistical principles. Here a basic calculator may not violate the essential function of the course. 
+It’s important that you determine what the academic standards of the course are. These will be used to determine whether or not an accommodation is considered "reasonable." No accommodation should violate the academic standards of the course, and each student, regardless of disability, should be expected to meet those items to successfully pass the course. In many cases, people restrict items out of fear that students may be able to use those items for negative intent, opposed to their usage jeopardizing the standards of the course. For example, the use of a calculator will violate the standards of an Algebra I course, where the student is expected to memorize multiplication tables. This may not be true of a Psychology 3 course that requires the student to apply appropriate statistical principles. Here, a basic calculator may not violate the essential function of the course. 
 
 ## Development Phase
 ### Have I put together my required reading lists?
-For students who need their books in alternate format text or students who like to know if they can afford the cost of their books before registering, it’s a good idea to publish your required reading lists as soon as possible. If you are posting things online, try to use accessible versions of text whenever possible. Consult your libraries for help; in some cases; there may be an accessible version of the document you have already in the same database.
+For students who need their books in alternate format text, or want to know if they can afford the cost of their books before registering, it’s a good idea to publish your required reading lists as soon as possible. If you are posting things online, try to use accessible versions of text whenever possible. Consult your libraries for help; in some cases, there may be an accessible version of the document you have already in the same database.
 
 ### Have I included an accessibility statement in my Syllabus?
-Find your disability services office, and be sure that you include accurate information on where students with disabilities should go if they need assistance. You should also encourage students to speak with you in private about any accessibility challenges they may be facing. Please be cautious not to ask questions about the nature of their disability, and to keep the conversation focused on challenges they may be having accessing information.
+Find your disability services office, and be sure that you include accurate information on where students with disabilities should go if they need assistance. You should also encourage students to speak with you in private about any accessibility challenges they may be facing. Please be cautious not to ask questions about the nature of their disability and keep the conversation focused on challenges they may have accessing information.
 
  
-### Is your course documents accessible?
+### Are your course documents accessible?
 <ul> 
- <li>   Be sure to use readable fonts like Arial, Verdana, and other sans serif fonts. Likewise, try to avoid fancy cursive type fonts that may be difficult for someone with a visual impairment to read.
+ <li>   Use readable fonts like Arial, Verdana, and other sans serif fonts. Likewise, try to avoid fancy, cursive type fonts that may be difficult for someone with a visual impairment to read.
   <li>    Bigger is better. As we get older, we all have trouble reading; please avoid using small font sizes. </li>
-  <li>    Stick to Black on White. In many cases, this is the default. Some individuals may have a disability that makes it difficult to see the contrast. To check if your foreground and background colors pass a contrast color test see: http://webaim.org/resources/contrastchecker/  </li>
- <li>     Avoid using color only to represent meaning, or distinguish between items. This makes things difficult for individuals who are color blind. When at all possible, also use shapes or written content to distinguish between items. For example, a line chart may have two series listed on it, one designated with round markers, and the other with diamond markers.  </li>
+  <li>    Stick to Black on White. In many cases, this is the default. Some individuals may have a disability that makes it difficult to see the contrast. To check if your foreground and background colors pass a contrast color test, see: http://webaim.org/resources/contrastchecker/  </li>
+ <li>     Avoid using color only to represent meaning, or distinguish between items. This makes things difficult for individuals who are color blind. When at all possible, also use shapes or written content to distinguish between items. For example, a line chart may have two series listed on it, one designated with round markers and the other with diamond markers.  </li>
     </ul>
 
 Word documents
@@ -41,24 +41,24 @@ Word documents
       <li>  Be sure you are utilizing the style guide to ensure that you are defining your headers </li>
      <li>   Be sure that all the elements in your document have been defined. </li>
      <li>   Don’t forget to provide alt-text to images, and avoid using floating boxes or floating images </li>
-     <li>   If you have a chart or graph that not already explained in the body of the text, be sure to provide a description of individuals who may not be able to see that image. </li>
-    <li>    If you have links, use links that are meaningful, i.e. Visit the Office of Disability Services website, with the ‘office of disability services website’ as the hyperlink, instead of click ‘here’ to visit the ODS site, the here being the link. Screen readers can jump through links similar to jumping through headers or navigation items. The reader will only read the link here out of the link. This doesn’t tell the user much about what that link is for. </li>
-   <li>     If you have a table, be sure, you are appropriately defining table headers and avoid using blank cells for formatting. </li>
+     <li>   If you have a chart or graph that was not already explained in the body of the text, be sure to provide a description for individuals who may not be able to see that image. </li>
+    <li>    If you have links, use links that are descriptive and meaningful, i.e. Visit the Office of Disability Services website, with the "office of disability services website" as the hyperlink, instead of click "here" to visit the ODS site, the "here" being the link. Screen readers can jump through links similar to jumping through headers or navigation items. The reader will only read the link "here" out of the link. This doesn’t tell the user much about what that link is for. </li>
+   <li>     If you have a table, be sure you are appropriately defining table headers and avoid using blank cells for formatting. </li>
    <li>     Use the accessibility checker. MS Word for Windows has an accessibility checker built-in. It will help identify any issues you may have forgotten. </li>
 </ul>
 
 Adobe Portable Document Format (PDF)
 <ul> 
- <li> If you cannot upload your word file and must upload a PDF, ensure your word file is accessible first and then convert it to a PDF. </li>
- <li> If you are using a PDF you did not create; you can check if it is accessible by using Adobes read out load feature. Libraries can be a huge help to find those same articles in an accessible format or helping you find resources to run an OCR program on your document. </li>
+ <li> If you cannot upload your Word file and must upload a PDF, ensure your Word file is accessible first and then convert it to a PDF. </li>
+ <li> If you are using a PDF you did not create; you can check if it is accessible by using Adobe's "Read Out Loud" feature. Libraries can be a huge help to find those same articles in an accessible format or helping you find resources to run an OCR, Optical Character Recognition, program on your document. </li>
 </ul>
 
 PowerPoint
 <ul> 
  <li>   Use existing templates and stick to the templates. </li>
-<li>     Make sure all images, charts, graphs and everything else in your presentation has an alt text associated with it.  </li>
+<li>     Make sure all images, charts, graphs, and everything else in your presentation has an alt text associated with it.  </li>
 <li>     Name each slide with a unique name  </li>
-<li>     Microsoft Powerpoint also has an accessibility checker built in. Use it.  </li>
+<li>     Ue the built-in Microsoft Powerpoint accessibility checker.  </li>
 </ul>
  
 ## Design Phase
@@ -85,7 +85,7 @@ Similar to video clips, if you are posting audio then you should also include a 
 ## Implementation Phase
 ### Day 1
 
-It’s important on day 1 as you go over the syllabus that you are letting students know if they have or believe they have a disability and need assistance. They should speak with their disability services office.
+It’s important on day 1 as you go over the syllabus, that you are letting students know if they have or believe they have a disability and need assistance, to speak with their disability services office to find suitable accommodations.
 
 ### Exams
 Work with your IT department and LMS management team to ensure that any exam is accessible with a screen reader. If a student presents you with a letter for an extended time, you should also work with them to help you determine how to go about making those arrangments online.
