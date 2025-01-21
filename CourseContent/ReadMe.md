@@ -30,7 +30,7 @@
     </ul>
 
 <h2> Accessibility Guidelines </h2>
-We've developed a tier sysem to help faculty prioritze and segment making accessibility changes into smaller, and more managable chunks. The ultimate goal for all courses is to make a Gold Standard course. Depending on the size and make up of your course you may fall into one of these 3 levels. All courses by should meet at minimum our bronze level.
+We've developed a tier system to help faculty prioritize and segment, making accessibility changes into smaller and more manageable chunks. The ultimate goal for all courses is to make a Gold Standard course. Depending on the size and make-up of your course, you may fall into one of these 3 levels. All courses should meet, at minimum, our bronze level.
 
 
 <h3> Images </h3>
@@ -117,7 +117,7 @@ Items should have extended audio descriptions available </a> </td>
 </table>
 
 <h3> Document </h3>
-<p> All Microsoft products have an <a href="https://support.microsoft.com/en-us/office/improve-accessibility-with-the-accessibility-checker-a16f6de0-2f39-4a2b-8bd8-5ad801426c7f"> Accessibility Checker </a> built into their products. We recommend that you run this tool to identify any accessibility issues in your document to fix. </p>
+<p> All Microsoft products have an <a href="https://support.microsoft.com/en-us/office/improve-accessibility-with-the-accessibility-checker-a16f6de0-2f39-4a2b-8bd8-5ad801426c7f"> Accessibility Checker </a> built into their products. We recommend that you run this tool to identify any accessibility issues in your document and fix them. </p>
 
 <table>
      <tr>
@@ -173,7 +173,7 @@ Items should have extended audio descriptions available </a> </td>
 	<td> Gold </td>
     </tr> 
 <tr> 
-	<td> <a href="https://github.com/jkhurdan/A11yTraining/blob/main/CourseContent/Document.md#-use-high-contrast-text-eg-black-text-on-white-background-use-an-11-point-or-larger-font-size--"> Use high contrast text (e.g. black text on white background). Use an 11-point or larger font size. </a> </td>
+	<td> <a href="https://github.com/jkhurdan/A11yTraining/blob/main/CourseContent/Document.md#-use-high-contrast-text-eg-black-text-on-white-background-use-an-11-point-or-larger-font-size--"> Use high contrast text (e.g., black text on white background). Use an 11-point or larger font size. </a> </td>
  <td> Gold </td>
     </tr> 
 </table>
