@@ -116,43 +116,43 @@ Items should have extended audio descriptions available </a> </td>
         <th>Standard</th>
         <th>Level</th>
     </tr>	
-<tr> <td> <a href="https://github.com/jkhurdan/A11yTraining/blob/main/CourseContent/Document.md#-meaningful-heading-structure-"> Meaningful heading structure </a> </td>
+<tr> <td> <a href="https://it.rutgers.edu/digital-accessibility/course-content-documents/#document1.1"> Meaningful heading structure </a> </td>
 	<td> Bronze </td>
     </tr> 
 <tr> 
-	<td> <a href="https://github.com/jkhurdan/A11yTraining/blob/main/CourseContent/Document.md#-no-use-of-color-or-shape-to-identify-meaning-">No use of color or shape to identify meaning  </a> </td>
+	<td> <a href="https://it.rutgers.edu/digital-accessibility/course-content-documents/#document1.2">No use of color or shape to identify meaning  </a> </td>
 	<td> Bronze </td>
     </tr>
 <tr>
-	<td> <a href="https://github.com/jkhurdan/A11yTraining/blob/main/CourseContent/Document.md#-meaningfuldescriptive-links-"> Meaningful/Descriptive Links </a> </td>
+	<td> <a href="https://it.rutgers.edu/digital-accessibility/course-content-documents/#document1.3"> Meaningful/Descriptive Links </a> </td>
 	<td> Bronze </td>
     </tr>
 <tr> 
-	<td> <a href="https://github.com/jkhurdan/A11yTraining/blob/main/CourseContent/Document.md#-accessible-tables--"> Accessible Tables </a> </td>
+	<td> <a href="https://it.rutgers.edu/digital-accessibility/course-content-documents/#document1.4"> Accessible Tables </a> </td>
 	<td> Bronze </td>
     </tr>
 <tr>
-	<td> <a href="https://github.com/jkhurdan/A11yTraining/blob/main/CourseContent/Document.md#-use-of-ppt-templates-layouts-only-ppt-"> Use of PPT template Layouts only (PPT) </a> </td>
+	<td> <a href="https://it.rutgers.edu/digital-accessibility/course-content-documents/#document1.5"> Use of PPT template Layouts only (PPT) </a> </td>
 	<td> Bronze </td>
     </tr>
 <tr>
-	<td> <a href="https://github.com/jkhurdan/A11yTraining/blob/main/CourseContent/Document.md#-provide-clean-copies-of-printedscanned-materials-this-includes-handouts-course-reserves-course-packs-etc--"> Provide clean copies of printed/scanned materials. This includes handouts, course reserves, course packs, etc. </a> </td>
+	<td> <a href="https://it.rutgers.edu/digital-accessibility/course-content-documents/#document1.6"> Provide clean copies of printed/scanned materials. This includes handouts, course reserves, course packs, etc. </a> </td>
 	<td> Bronze </td>
     </tr>
 <tr> 
-	<td> <a href="https://github.com/jkhurdan/A11yTraining/blob/main/CourseContent/Document.md#-searchable-pdfs-only-"> Searchable PDFs only </a> </td>
+	<td> <a href="https://it.rutgers.edu/digital-accessibility/course-content-documents/#document1.7"> Searchable PDFs only </a> </td>
 	<td> Bronze </td>
     </tr>
 <tr> 
-	<td> <a href="https://github.com/jkhurdan/A11yTraining/blob/main/CourseContent/Document.md#-color-contrast-meets-standards-in-instructor-generated-content--"> Color contrast meets standards in instructor generated content </a> </td>
+	<td> <a href="https://it.rutgers.edu/digital-accessibility/course-content-documents/#document1.8"> Color contrast meets standards in instructor generated content </a> </td>
 	<td> Silver </td>
     </tr>
 <tr> 
-	<td> <a href="https://github.com/jkhurdan/A11yTraining/blob/main/CourseContent/Document.md#-alternative-formats-available-"> Alternative formats available </a> </td>
+	<td> <a href="https://it.rutgers.edu/digital-accessibility/course-content-documents/#document1.9"> Alternative formats available </a> </td>
 	<td> Gold </td>
     </tr> 
 <tr> 
-	<td> <a href="https://github.com/jkhurdan/A11yTraining/blob/main/CourseContent/Document.md#-use-high-contrast-text-eg-black-text-on-white-background-use-an-11-point-or-larger-font-size--"> Use high contrast text (e.g., black text on white background). Use an 11-point or larger font size. </a> </td>
+	<td> <a href="https://it.rutgers.edu/digital-accessibility/course-content-documents/#document1.10"> Use high contrast text (e.g., black text on white background). Use an 11-point or larger font size. </a> </td>
  <td> Gold </td>
     </tr> 
 </table>
