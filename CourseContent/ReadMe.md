@@ -39,19 +39,19 @@ We've developed a tier system to help faculty prioritize and segment, making acc
         <th>Level</th>
     </tr>
     <tr>
-        <td> <a href="https://ithelp.rutgers.edu/sp?id=kb_article_view&sysparm_article=KB0018314"> All instructor created content must have a useful alt-text for all images. This includes documents, PowerPoint, Canvas content, etc. </a>	</td>
+        <td> <a href="https://it.rutgers.edu/digital-accessibility/course-content-images/#Images1.1"> All instructor created content must have a useful alt-text for all images. This includes documents, PowerPoint, Canvas content, etc. </a>	</td>
         <td> Bronze </td>
     </tr>
         <tr>
-        <td> <a href="https://ithelp.rutgers.edu/sp?id=kb_article_view&sysparm_article=KB0018314"> Students provided with instructions/ expectations on how to add alt-text to content they create. </a>	</td>
+        <td> <a href="https://it.rutgers.edu/digital-accessibility/course-content-images/#images1.2"> Students provided with instructions/ expectations on how to add alt-text to content they create. </a>	</td>
         <td> Silver </td>
     </tr>
         <tr>
-        <td> <a href="https://ithelp.rutgers.edu/sp?id=kb_article_view&sysparm_article=KB0018314"> Long descriptions provided for items where alt-text is not use-able </a></td>
+        <td> <a href="https://it.rutgers.edu/digital-accessibility/course-content-images/#images1.3"> Long descriptions provided for items where alt-text is not use-able </a></td>
         <td> Gold </td>
     </tr>
         <tr>
-        <td> <a href="https://ithelp.rutgers.edu/sp?id=kb_article_view&sysparm_article=KB0018314"> Alternative provided where long description is not use-able. </a> </td>
+        <td> <a href="https://it.rutgers.edu/digital-accessibility/course-content-images/#images1.4"> Alternative provided where long description is not use-able. </a> </td>
         <td> Gold </td>
     </tr>
 </table>
