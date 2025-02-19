@@ -11,7 +11,7 @@
 <h2> Suggested Course Road Maps </h2>
 <ul>
     <li><a href="https://ithelp.rutgers.edu/sp?id=kb_article_view&sysparm_article=KB0018313"> Reviewing existing courses</a></li>
-    <li><a href="https://ithelp.rutgers.edu/sp?id=kb_article_view&sysparm_article=KB0018311">Minimum Accessibility standards</a></li>
+    <li><a href="https://ithelp.rutgers.edu/sp?id=kb_article_view&sysparm_article=KB0018311">Course Accessibility Standards</a></li>
     <li><a href="https://jkhurdan.github.io/A11yTraining/CourseContent/CourseContentHelperV2.html">What to Prioritize</a></li>
     <li><a href="https://ithelp.rutgers.edu/sp?id=kb_article_view&sysparm_article=KB0018359">Managing PDFS</a></li>
     <li> <a href="https://ithelp.rutgers.edu/sp?id=kb_article_view&sysparm_article=KB0018304"> Starting from scratch </a> </li> 
