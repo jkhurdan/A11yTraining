@@ -63,28 +63,29 @@ We've developed a tier system to help faculty prioritize and segment, making acc
         <th>Standard</th>
         <th>Level</th>
     </tr>
+	        <tr>
+        <td> <a href="https://it.rutgers.edu/digital-accessibility/course-content-audio-video/#audiovideo1.1"> All video content is in Kaltura </a></td>
+        <td>Bronze</td>
+	</tr>
     <tr>
-        <td> <a href="https://github.com/jkhurdan/A11yTraining/blob/main/CourseContent/AudioVideo-Prerecorded.md#auto-captions-available-with-ability-to-turn-onoff"> Auto-captions available with ability to turn on/off 
+        <td> <a href="https://it.rutgers.edu/digital-accessibility/course-content-audio-video/#audiovideo1.2"> Auto-captions available with ability to turn on/off 
 	</a></td>
         <td>Bronze </td>
     </tr>
+	        <tr>
+        <td> <a href="https://it.rutgers.edu/digital-accessibility/course-content-audio-video/#audiovideo1.3"> Instructor created videos all items are described </a>  </td>
+        <td> Silver </td>
+    </tr>
         <tr>
-        <td> <a href="https://github.com/jkhurdan/A11yTraining/blob/main/CourseContent/AudioVideo-Prerecorded.md#all-video-content-is-in-kaltura"> All video content is in Kaltura </a></td>
-        <td>Bronze</td>
-	</tr>
-        <tr>
-        <td> <a href="https://github.com/jkhurdan/A11yTraining/blob/main/CourseContent/AudioVideo-Prerecorded.md#all-items-should-have-professional-captioning-done"> All items should have professional captioning done </a> </td>
+        <td> <a href="https://it.rutgers.edu/digital-accessibility/course-content-audio-video/#audiovideo1.4"> All items should have professional captioning done </a> </td>
         <td> Gold </td>
     </tr>
         <tr>
-        <td> <a href="https://github.com/jkhurdan/A11yTraining/blob/main/CourseContent/AudioVideo-Prerecorded.md#items-should-have-extended-audio-descriptions-available">
+        <td> <a href="https://it.rutgers.edu/digital-accessibility/course-content-audio-video/#audiovideo1.5">
 Items should have extended audio descriptions available </a> </td>
         <td> Gold </td>
     </tr>
-        <tr>
-        <td> <a href="https://github.com/jkhurdan/A11yTraining/blob/main/CourseContent/AudioVideo-Prerecorded.md#instructor-created-videos-all-items-are-described"> Instructor created videos all items are described </a>  </td>
-        <td> Silver </td>
-    </tr>
+
 </table>
 
 <h3> Audio/Vido (Live) </h3>
@@ -94,16 +95,16 @@ Items should have extended audio descriptions available </a> </td>
         <th>Level</th>
     </tr>
     <tr>
-        <td><a href="https://github.com/jkhurdan/A11yTraining/blob/main/CourseContent/AudioVideo-Live.md#auto-captions-available">Auto Captions available </a></td>
+        <td><a href="https://it.rutgers.edu/digital-accessibility/audio-video-live/#audiovideolive1.1">Auto Captions available </a></td>
         <td> Bronze</td>
     </tr>
-        <tr>
-        <td><a href="https://github.com/jkhurdan/A11yTraining/blob/main/CourseContent/AudioVideo-Live.md#all-items-should-have-a-professional-captionasl-interpreter-available">All items should have a professional Caption/ASL interpreter available</a></td>
-        <td>Gold</td>
+	        <tr>
+        <td><a href="https://it.rutgers.edu/digital-accessibility/audio-video-live/#audiovideolive1.2">Instructor created videos all items are described </a></td>
+        <td>Silver</td>
     </tr>
         <tr>
-        <td><a href="https://github.com/jkhurdan/A11yTraining/blob/main/CourseContent/AudioVideo-Live.md#instructor-created-videos-all-items-are-described">Instructor created videos all items are described </a></td>
-        <td>Silver</td>
+        <td><a href="https://it.rutgers.edu/digital-accessibility/audio-video-live/#audiovideolive1.3">All items should have a professional Caption/ASL interpreter available</a></td>
+        <td>Gold</td>
     </tr>
 </table>
 
