@@ -20,7 +20,6 @@
 <h2> Canvas Accessibility </h2>
 
 <ul>
-    <li> <a href="https://community.canvaslms.com/groups/accessibility/blog/2018/05/08/how-to-fix-and-prevent-accessibility-issues-in-your-canvas-course"> How to fix and prevent accessibility issues in your Canvas course (DEAD LINK) </a> </li>
     <li> <a href="https://community.canvaslms.com/t5/Canvas-Basics-Guide/How-do-I-use-the-Accessibility-Checker-in-the-Rich-Content/ta-p/618238"> How do I use the Accessibility Checker in the Rich Content Editor? </a></li>
     <li> <a href="https://community.canvaslms.com/t5/Canvas-Basics-Guide/How-do-I-add-captions-to-new-or-uploaded-videos-in-the-Rich/ta-p/618250"> How do I add captions to new or uploaded videos in Canvas? </a></li>
     <li> <a href="https://community.canvaslms.com/t5/Canvas-Developers-Group/Table-Accessibility-in-Canvas/ba-p/277208"> Creating accessible tables in the Rich Content Editor </a></li>
@@ -74,14 +73,6 @@ We've developed a tier system to help faculty prioritize and segment, making acc
         <td>Bronze</td>
 	</tr>
         <tr>
-        <td>  All items have the ability pause and stop - <b> Removed </b> </td>
-        <td>Bronze</td>
-    </tr>
-        <tr>
-        <td> Enough time to view all items  - <b> Removed </b>  </td>
-        <td> Bronze </td>
-    </tr>
-        <tr>
         <td> <a href="https://github.com/jkhurdan/A11yTraining/blob/main/CourseContent/AudioVideo-Prerecorded.md#all-items-should-have-professional-captioning-done"> All items should have professional captioning done </a> </td>
         <td> Gold </td>
     </tr>
@@ -132,10 +123,6 @@ Items should have extended audio descriptions available </a> </td>
 	<td> Bronze </td>
     </tr>
 <tr>
-	<td> Consistent navigation -- <b> Remove </b> </td>
-	<td> Bronze </td>
-    </tr>
-<tr>
 	<td> <a href="https://github.com/jkhurdan/A11yTraining/blob/main/CourseContent/Document.md#-meaningfuldescriptive-links-"> Meaningful/Descriptive Links </a> </td>
 	<td> Bronze </td>
     </tr>
@@ -159,15 +146,6 @@ Items should have extended audio descriptions available </a> </td>
 	<td> <a href="https://github.com/jkhurdan/A11yTraining/blob/main/CourseContent/Document.md#-color-contrast-meets-standards-in-instructor-generated-content--"> Color contrast meets standards in instructor generated content </a> </td>
 	<td> Silver </td>
     </tr>
-<tr> 
-	<td> Word/PPT/ instructor created content is accessible -- <b> Remove </b>
-		<br> <b> Move to Bronze as run accessibility checker? </b> </td>
-	<td> Silver </td>
-    </tr>
-<tr> 
-	<td> All form items are accessible to a screen reader -- <b> Remove </b> </td>
-	<td> Gold </td>
-    </tr> 
 <tr> 
 	<td> <a href="https://github.com/jkhurdan/A11yTraining/blob/main/CourseContent/Document.md#-alternative-formats-available-"> Alternative formats available </a> </td>
 	<td> Gold </td>
