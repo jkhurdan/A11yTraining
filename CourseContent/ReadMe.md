@@ -10,11 +10,11 @@
 
 <h2> Suggested Course Road Maps </h2>
 <ul>
-    <li><a href="https://github.com/jkhurdan/A11yTraining/blob/main/CourseContent/ReviewCurrentCourses.md">Reviewing existing courses</a></li>
-    <li><a href="https://github.com/jkhurdan/A11yTraining/blob/main/CourseContent/MinCourseA11y.md">Minimum Accessibility standards</a></li>
+    <li><a href="https://ithelp.rutgers.edu/sp?id=kb_article_view&sysparm_article=KB0018313"> Reviewing existing courses</a></li>
+    <li><a href="https://ithelp.rutgers.edu/sp?id=kb_article_view&sysparm_article=KB0018311">Minimum Accessibility standards</a></li>
     <li><a href="https://jkhurdan.github.io/A11yTraining/CourseContent/CourseContentHelperV2.html">What to Prioritize</a></li>
-    <li><a href="https://github.com/jkhurdan/A11yTraining/blob/main/CourseContent/PDFWorkFlow.md">Managing PDFS</a></li>
-    <li> <a href="https://github.com/jkhurdan/A11yTraining/blob/main/CourseContent/A11yChecklist-startfromscratch.md"> Starting from scratch </a> </li> 
+    <li><a href="https://ithelp.rutgers.edu/sp?id=kb_article_view&sysparm_article=KB0018359">Managing PDFS</a></li>
+    <li> <a href="https://ithelp.rutgers.edu/sp?id=kb_article_view&sysparm_article=KB0018304"> Starting from scratch </a> </li> 
 </ul>
 
 <h2> Canvas Accessibility </h2>
