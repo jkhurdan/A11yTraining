@@ -125,12 +125,12 @@
               <legend>What is the total size of your classs?</legend>
               <div>
                 <input type="radio" id="Large" name="ClassSize" value="Large"  />
-                <label for="Large"> 1500 students or more </label>
+                <label for="Large"> 50 students or more </label>
               </div>
             
               <div>
                 <input type="radio" id="Samll" name="ClassSize" value="Small"  />
-                <label for="Small">Less than 1500 students </label>
+                <label for="Small">Less than 50 students </label>
               </div>
             </fieldset>
       <p></p>
@@ -290,7 +290,6 @@
             "<li> <a href='https://it.rutgers.edu/digital-accessibility/course-content-documents/#document1.5'> Use of PPT template Layouts only (PPT) </a> </li>" + 
             "<li> <a href='https://it.rutgers.edu/digital-accessibility/course-content-documents/#document1.6'> Provide clean copies of printed/scanned materials. This includes handouts, course reserves, course packs, etc. </a>  </li>" + 
             "<li> <a href='https://it.rutgers.edu/digital-accessibility/course-content-documents/#document1.7'> Searchable PDFs only </a>  </li>" +  
-            "<li>  All form items are accessible to a screen reader </li>" + 
             "<li> <a href='https://it.rutgers.edu/digital-accessibility/course-content-documents/#document1.9'> Alternative formats available </a>  </li>" + 
             "<li> <a href='https://it.rutgers.edu/digital-accessibility/course-content-documents/#document1.8'> Color contrast meets standards in instructor generated content </a> </li>" + 
             "<li> <a href='https://support.office.com/en-us/article/Make-your-Word-documents-accessible-d9bf3683-87ac-47ea-b91a-78dcacb3c66d'>Word/PPT/ instructor  created content is accessible </a> </li>" + 
@@ -390,6 +389,7 @@
         "<ul>" +
         "<li> <a href='https://support.office.com/en-us/article/Make-your-PowerPoint-presentations-accessible-6f7772b2-2f33-4bd2-8ca7-dae3b2b3ef25?ui%3Den-US%26rs%3Den-US%26ad%3DUS'> Make your PowerPoint presentations accessible</a> by Microsoft</li>" +
         "<li><a href='https://webaim.org/techniques/powerpoint/'> PowerPoint accessibility</a> by WebAIM</li>" +
+        "<li> <a href='https://it.rutgers.edu/digital-accessibility/course-content-documents/#document1.5'> Use of PPT template Layouts only (PPT) </a> </li>" + 
         "</ul>")
       }
       if (HandoutsisChecked.checked) {
@@ -398,10 +398,23 @@
         "<ul>" +
         "<li><a href='https://support.office.com/en-us/article/Make-your-Word-documents-accessible-d9bf3683-87ac-47ea-b91a-78dcacb3c66d'>Make your Word documents accessible</a> by Microsoft</li>" +
         "<li><a href='https://webaim.org/techniques/word/'>Creating Accessible Microsoft Word Documents</a> by WebAIM</li>" +
+        "<li><a href='https://support.office.com/en-us/article/Make-your-Word-documents-accessible-d9bf3683-87ac-47ea-b91a-78dcacb3c66d'>Make your Word documents accessible</a> by Microsoft</li>" +
+        "<li><a href='https://webaim.org/techniques/word/'>Creating Accessible Microsoft Word Documents</a> by WebAIM</li>" +
+        "<li> <a href='https://it.rutgers.edu/digital-accessibility/course-content-documents/#document1.1'> Meaningful heading structure </a> </li>" +
+        "<li>  <a href='https://it.rutgers.edu/digital-accessibility/course-content-documents/#document1.2'>No use of color or shape to identify meaning  </a> </li>" +
+        "<li> <a href='https://it.rutgers.edu/digital-accessibility/course-content-documents/#document1.3'> Meaningful/Descriptive Links </a>  </li>" +   
+        "<li> <a href='https://it.rutgers.edu/digital-accessibility/course-content-documents/#document1.4'> Accessible Tables </a>  </li>" + 
+        "<li> <a href='https://it.rutgers.edu/digital-accessibility/course-content-documents/#document1.6'> Provide clean copies of printed/scanned materials. This includes handouts, course reserves, course packs, etc. </a>  </li>" + 
+        "<li> <a href='https://it.rutgers.edu/digital-accessibility/course-content-documents/#document1.7'> Searchable PDFs only </a>  </li>" + 
+        "<li> <a href='https://it.rutgers.edu/digital-accessibility/course-content-documents/#document1.8'> Color contrast meets standards in instructor generated content </a> </li>" + 
         "</ul>")
       }
       if (VideosisChecked.checked) {
-        document.write("<h3> Videos </h3> Some info on Silver stuff")
+        document.write("<h3> Videos </h3> " +
+        "<ul> "  + 
+          "<li> <a href='https://it.rutgers.edu/digital-accessibility/course-content-audio-video/#audiovideo1.1'>All Video Content is in Kaltura Media Space </a> </li>" +
+          "<li> <a href='https://it.rutgers.edu/digital-accessibility/audio-video-live/#audiovideolive1.2'> Instructor created Videos, all items described  </a> </li>" +
+        "</ul> ")
       }
     }
     else { 
@@ -412,6 +425,7 @@
         "<ul>" +
         "<li> <a href='https://support.office.com/en-us/article/Make-your-PowerPoint-presentations-accessible-6f7772b2-2f33-4bd2-8ca7-dae3b2b3ef25?ui%3Den-US%26rs%3Den-US%26ad%3DUS'> Make your PowerPoint presentations accessible</a> by Microsoft</li>" +
         "<li><a href='https://webaim.org/techniques/powerpoint/'> PowerPoint accessibility</a> by WebAIM</li>" +
+        "<li> <a href='https://it.rutgers.edu/digital-accessibility/course-content-documents/#document1.5'> Use of PPT template Layouts only (PPT) </a> </li>" + 
         "</ul>")
       }
   
@@ -421,10 +435,19 @@
         "<ul>" +
         "<li><a href='https://support.office.com/en-us/article/Make-your-Word-documents-accessible-d9bf3683-87ac-47ea-b91a-78dcacb3c66d'>Make your Word documents accessible</a> by Microsoft</li>" +
         "<li><a href='https://webaim.org/techniques/word/'>Creating Accessible Microsoft Word Documents</a> by WebAIM</li>" +
+        "<li> <a href='https://it.rutgers.edu/digital-accessibility/course-content-documents/#document1.1'> Meaningful heading structure </a> </li>" +
+        "<li>  <a href='https://it.rutgers.edu/digital-accessibility/course-content-documents/#document1.2'>No use of color or shape to identify meaning  </a> </li>" +
+        "<li> <a href='https://it.rutgers.edu/digital-accessibility/course-content-documents/#document1.3'> Meaningful/Descriptive Links </a>  </li>" +   
+        "<li> <a href='https://it.rutgers.edu/digital-accessibility/course-content-documents/#document1.4'> Accessible Tables </a>  </li>" + 
+        "<li> <a href='https://it.rutgers.edu/digital-accessibility/course-content-documents/#document1.6'> Provide clean copies of printed/scanned materials. This includes handouts, course reserves, course packs, etc. </a>  </li>" + 
+        "<li> <a href='https://it.rutgers.edu/digital-accessibility/course-content-documents/#document1.7'> Searchable PDFs only </a>  </li>" + 
         "</ul>")
       }
        if (VideosisChecked.checked) {
-        document.write("<h3> Videos </h3> Some info on bronze stuff")
+        document.write("<h3> Videos </h3>" + 
+        "<ul> " + 
+          "<li> <a href='https://it.rutgers.edu/digital-accessibility/course-content-audio-video/#audiovideo1.1'>All Video Content is in Kaltura Media Space </a> </li>" +
+        "</ul> ")
       }
     }
     }
