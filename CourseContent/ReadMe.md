@@ -11,7 +11,7 @@
 <h2> Suggested Course Road Maps </h2>
 <ul>
     <li><a href="https://ithelp.rutgers.edu/sp?id=kb_article_view&sysparm_article=KB0018313"> Reviewing existing courses</a></li>
-    <li><a href="https://it.rutgers.edu/digital-accessibility/course-a11y-standards/">Course Accessibility Standards</a></li>
+    <li><a href="https://ithelp.rutgers.edu/sp?id=kb_article_view&sysparm_article=KB0018311&sys_kb_id=1305c5d21b33925060b5cbb2604bcbd3&spa=1">Course Accessibility Standards</a></li>
     <li><a href="https://jkhurdan.github.io/A11yTraining/CourseContent/CourseContentHelperV2.html">What to Prioritize</a></li>
     <li><a href="https://ithelp.rutgers.edu/sp?id=kb_article_view&sysparm_article=KB0018359">Managing PDFS</a></li>
     <li> <a href="https://ithelp.rutgers.edu/sp?id=kb_article_view&sysparm_article=KB0018304"> Starting from scratch </a> </li> 
@@ -95,15 +95,15 @@ Items should have extended audio descriptions available </a> </td>
         <th>Level</th>
     </tr>
     <tr>
-        <td><a href="https://it.rutgers.edu/digital-accessibility/audio-video-live/#audiovideolive1.1">Auto Captions available </a></td>
+        <td><a href="https://ithelp.rutgers.edu/sp?id=kb_article_view&sysparm_article=KB0018308&sys_kb_id=e0594ee01bcce6d0f2f2fe6e034bcbd0&spa=1#Heading1">Auto Captions available </a></td>
         <td> Bronze</td>
     </tr>
 	        <tr>
-        <td><a href="https://it.rutgers.edu/digital-accessibility/audio-video-live/#audiovideolive1.2">Instructor created videos all items are described </a></td>
+        <td><a href="https://ithelp.rutgers.edu/sp?id=kb_article_view&sysparm_article=KB0018308&sys_kb_id=e0594ee01bcce6d0f2f2fe6e034bcbd0&spa=1#Heading2">Instructor created videos all items are described </a></td>
         <td>Silver</td>
     </tr>
         <tr>
-        <td><a href="https://it.rutgers.edu/digital-accessibility/audio-video-live/#audiovideolive1.3">All items should have a professional Caption/ASL interpreter available</a></td>
+        <td><a href="https://ithelp.rutgers.edu/sp?id=kb_article_view&sysparm_article=KB0018308&sys_kb_id=e0594ee01bcce6d0f2f2fe6e034bcbd0&spa=1#Heading3">All items should have a professional Caption/ASL interpreter available</a></td>
         <td>Gold</td>
     </tr>
 </table>
@@ -116,43 +116,43 @@ Items should have extended audio descriptions available </a> </td>
         <th>Standard</th>
         <th>Level</th>
     </tr>	
-<tr> <td> <a href="https://it.rutgers.edu/digital-accessibility/course-content-documents/#document1.1"> Meaningful heading structure </a> </td>
+<tr> <td> <a href="https://ithelp.rutgers.edu/sp?id=kb_article_view&sysparm_article=KB0018310&sys_kb_id=c06aca281bcce6d0f2f2fe6e034bcb29&spa=1#Heading1"> Meaningful heading structure </a> </td>
 	<td> Bronze </td>
     </tr> 
 <tr> 
-	<td> <a href="https://it.rutgers.edu/digital-accessibility/course-content-documents/#document1.2">No use of color or shape to identify meaning  </a> </td>
+	<td> <a href="https://ithelp.rutgers.edu/sp?id=kb_article_view&sysparm_article=KB0018310&sys_kb_id=c06aca281bcce6d0f2f2fe6e034bcb29&spa=1#Heading2">No use of color or shape to identify meaning  </a> </td>
 	<td> Bronze </td>
     </tr>
 <tr>
-	<td> <a href="https://it.rutgers.edu/digital-accessibility/course-content-documents/#document1.3"> Meaningful/Descriptive Links </a> </td>
+	<td> <a href="https://ithelp.rutgers.edu/sp?id=kb_article_view&sysparm_article=KB0018310&sys_kb_id=c06aca281bcce6d0f2f2fe6e034bcb29&spa=1#Heading3"> Meaningful/Descriptive Links </a> </td>
 	<td> Bronze </td>
     </tr>
 <tr> 
-	<td> <a href="https://it.rutgers.edu/digital-accessibility/course-content-documents/#document1.4"> Accessible Tables </a> </td>
+	<td> <a href="https://ithelp.rutgers.edu/sp?id=kb_article_view&sysparm_article=KB0018310&sys_kb_id=c06aca281bcce6d0f2f2fe6e034bcb29&spa=1#Heading4"> Accessible Tables </a> </td>
 	<td> Bronze </td>
     </tr>
 <tr>
-	<td> <a href="https://it.rutgers.edu/digital-accessibility/course-content-documents/#document1.5"> Use of PPT template Layouts only (PPT) </a> </td>
+	<td> <a href="https://ithelp.rutgers.edu/sp?id=kb_article_view&sysparm_article=KB0018310&sys_kb_id=c06aca281bcce6d0f2f2fe6e034bcb29&spa=1#Heading5"> Use of PPT template Layouts only (PPT) </a> </td>
 	<td> Bronze </td>
     </tr>
 <tr>
-	<td> <a href="https://it.rutgers.edu/digital-accessibility/course-content-documents/#document1.6"> Provide clean copies of printed/scanned materials. This includes handouts, course reserves, course packs, etc. </a> </td>
+	<td> <a href="https://ithelp.rutgers.edu/sp?id=kb_article_view&sysparm_article=KB0018310&sys_kb_id=c06aca281bcce6d0f2f2fe6e034bcb29&spa=1#Heading6"> Provide clean copies of printed/scanned materials. This includes handouts, course reserves, course packs, etc. </a> </td>
 	<td> Bronze </td>
     </tr>
 <tr> 
-	<td> <a href="https://it.rutgers.edu/digital-accessibility/course-content-documents/#document1.7"> Searchable PDFs only </a> </td>
+	<td> <a href="https://ithelp.rutgers.edu/sp?id=kb_article_view&sysparm_article=KB0018310&sys_kb_id=c06aca281bcce6d0f2f2fe6e034bcb29&spa=1#Heading7"> Searchable PDFs only </a> </td>
 	<td> Bronze </td>
     </tr>
 <tr> 
-	<td> <a href="https://it.rutgers.edu/digital-accessibility/course-content-documents/#document1.8"> Color contrast meets standards in instructor generated content </a> </td>
+	<td> <a href="https://ithelp.rutgers.edu/sp?id=kb_article_view&sysparm_article=KB0018310&sys_kb_id=c06aca281bcce6d0f2f2fe6e034bcb29&spa=1#Heading8"> Color contrast meets standards in instructor generated content </a> </td>
 	<td> Silver </td>
     </tr>
 <tr> 
-	<td> <a href="https://it.rutgers.edu/digital-accessibility/course-content-documents/#document1.9"> Alternative formats available </a> </td>
+	<td> <a href="https://ithelp.rutgers.edu/sp?id=kb_article_view&sysparm_article=KB0018310&sys_kb_id=c06aca281bcce6d0f2f2fe6e034bcb29&spa=1#Heading9"> Alternative formats available </a> </td>
 	<td> Gold </td>
     </tr> 
 <tr> 
-	<td> <a href="https://it.rutgers.edu/digital-accessibility/course-content-documents/#document1.10"> Use high contrast text (e.g., black text on white background). Use an 11-point or larger font size. </a> </td>
+	<td> <a href="https://ithelp.rutgers.edu/sp?id=kb_article_view&sysparm_article=KB0018310&sys_kb_id=c06aca281bcce6d0f2f2fe6e034bcb29&spa=1#Heading10"> Use high contrast text (e.g., black text on white background). Use an 11-point or larger font size. </a> </td>
  <td> Gold </td>
     </tr> 
 </table>
