@@ -43,15 +43,15 @@ We've developed a tier system to help faculty prioritize and segment, making acc
         <td> Bronze </td>
     </tr>
         <tr>
-        <td> <a href="https://it.rutgers.edu/digital-accessibility/course-content-images/#images1.2"> Students provided with instructions/ expectations on how to add alt-text to content they create. </a>	</td>
+        <td> <a href="https://ithelp.rutgers.edu/sp?id=kb_article_view&sysparm_article=KB0018314&sys_kb_id=83e9caa41bcce6d0f2f2fe6e034bcb5c&spa=1#Heading2"> Students provided with instructions/ expectations on how to add alt-text to content they create. </a>	</td>
         <td> Silver </td>
     </tr>
         <tr>
-        <td> <a href="https://it.rutgers.edu/digital-accessibility/course-content-images/#images1.3"> Long descriptions provided for items where alt-text is not use-able </a></td>
+        <td> <a href="https://ithelp.rutgers.edu/sp?id=kb_article_view&sysparm_article=KB0018314&sys_kb_id=83e9caa41bcce6d0f2f2fe6e034bcb5c&spa=1#Heading3"> Long descriptions provided for items where alt-text is not use-able </a></td>
         <td> Gold </td>
     </tr>
         <tr>
-        <td> <a href="https://it.rutgers.edu/digital-accessibility/course-content-images/#images1.4"> Alternative provided where long description is not use-able. </a> </td>
+        <td> <a href="https://ithelp.rutgers.edu/sp?id=kb_article_view&sysparm_article=KB0018314&sys_kb_id=83e9caa41bcce6d0f2f2fe6e034bcb5c&spa=1#Heading4"> Alternative provided where long description is not use-able. </a> </td>
         <td> Gold </td>
     </tr>
 </table>
@@ -64,24 +64,24 @@ We've developed a tier system to help faculty prioritize and segment, making acc
         <th>Level</th>
     </tr>
 	        <tr>
-        <td> <a href="https://it.rutgers.edu/digital-accessibility/course-content-audio-video/#audiovideo1.1"> All video content is in Kaltura </a></td>
+        <td> <a href="https://ithelp.rutgers.edu/sp?id=kb_article_view&sysparm_article=KB0018307&sys_kb_id=3e7642e81bc4a6d0f2f2fe6e034bcb74&spa=1#Heading1"> All video content is in Kaltura </a></td>
         <td>Bronze</td>
 	</tr>
     <tr>
-        <td> <a href="https://it.rutgers.edu/digital-accessibility/course-content-audio-video/#audiovideo1.2"> Auto-captions available with ability to turn on/off 
+        <td> <a href="https://ithelp.rutgers.edu/sp?id=kb_article_view&sysparm_article=KB0018307&sys_kb_id=3e7642e81bc4a6d0f2f2fe6e034bcb74&spa=1#Heading2"> Auto-captions available with ability to turn on/off 
 	</a></td>
         <td>Bronze </td>
     </tr>
 	        <tr>
-        <td> <a href="https://it.rutgers.edu/digital-accessibility/course-content-audio-video/#audiovideo1.3"> Instructor created videos all items are described </a>  </td>
+        <td> <a href="https://ithelp.rutgers.edu/sp?id=kb_article_view&sysparm_article=KB0018307&sys_kb_id=3e7642e81bc4a6d0f2f2fe6e034bcb74&spa=1#Heading3"> Instructor created videos all items are described </a>  </td>
         <td> Silver </td>
     </tr>
         <tr>
-        <td> <a href="https://it.rutgers.edu/digital-accessibility/course-content-audio-video/#audiovideo1.4"> All items should have professional captioning done </a> </td>
+        <td> <a href="https://ithelp.rutgers.edu/sp?id=kb_article_view&sysparm_article=KB0018307&sys_kb_id=3e7642e81bc4a6d0f2f2fe6e034bcb74&spa=1#Heading4"> All items should have professional captioning done </a> </td>
         <td> Gold </td>
     </tr>
         <tr>
-        <td> <a href="https://it.rutgers.edu/digital-accessibility/course-content-audio-video/#audiovideo1.5">
+        <td> <a href="https://ithelp.rutgers.edu/sp?id=kb_article_view&sysparm_article=KB0018307&sys_kb_id=3e7642e81bc4a6d0f2f2fe6e034bcb74&spa=1#Heading5">
 Items should have extended audio descriptions available </a> </td>
         <td> Gold </td>
     </tr>
