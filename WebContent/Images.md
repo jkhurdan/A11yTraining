@@ -73,6 +73,9 @@ Please note, automated checkers will not pick up this issue. You will need to ma
 
 ## Other resources
 * [W3C Image Tutorial](https://www.w3.org/WAI/tutorials/images/)
+* [Benetech Image Description Guidelines](http://diagramcenter.org/table-of-contents-2.html)
+
+
 ## WCAG Standards
 * [1.1.1 Non-text Content](https://www.w3.org/WAI/WCAG21/quickref/#qr-text-equiv-all)
 * [1.4.5 Images of Text](https://www.w3.org/WAI/WCAG21/quickref/#qr-visual-audio-contrast-text-presentation)
