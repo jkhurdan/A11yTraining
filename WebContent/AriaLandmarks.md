@@ -7,9 +7,10 @@ It is recommended that you start with using HTML 5 semantic regions. These are t
 <header>, <nav>, <main>, <section>, <aside>, <footer>
 ```
 These should correspond to the regions on your page:
+
 ![image](https://github.com/user-attachments/assets/ae9dd2ea-1d98-49da-b961-1ef5e106f56a)
 
-It is common for you to have multiple navigations, sections, and sometimes side items. For these it's important that you are providing a usable label so that the end user can descern one element from the other. 
+It is common for you to have multiple navigation, sections, and sometimes side items. For these it's important that you are providing a usable label so that the end user can discern one element from the other. 
 
 In the example below we've code two navigation items
 ```html
@@ -30,9 +31,9 @@ We recommend using the [Skip to Headings browser extension](https://chromewebsto
 
 ## Common Mistakes
 ### Not labeling landmarks
-A very common mistake we see, is not providig an ARIA lable to your sections. This results in the screen reader listing:
+A very common mistake we see, is not providing an ARIA label to your sections. This results in the screen reader listing:
   * Navigation
-  * Navgition
+  * Navigation
   * Complimentary Region
   * Complimentary Region
   * Complimentary Region
