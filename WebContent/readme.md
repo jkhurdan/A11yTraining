@@ -2,6 +2,7 @@
 1| **Build structure and context into your websites:**
 - Aria Landmarks
 - Headings
+- Skip Navigation Link
 - Meaningful links
 
 2| **Provide multiple means of accessing information:**
