@@ -6,7 +6,7 @@
 - [Meaningful links](Links.md)
 
 2| **Provide multiple means of accessing information:**
-- alternate text on images
+- [Alternate text on images](Images.md)
 - captions/transcripts on audio ad video
 
 3| **Use color appropriately:**
