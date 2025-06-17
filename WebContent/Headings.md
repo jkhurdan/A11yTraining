@@ -1,5 +1,5 @@
 # Headings
-Headingsare imporant, as it creates a structure that allows screen readers to navigate your site. It also improves the usability of your site, making it easy for viewers to find the information they need.
+Headings are important, as it creates a structure that allows screen readers to navigate your site. It also improves the usability of your site, making it easy for viewers to find the information they need.
 
 ## Appropriate Use
 ### Code Example
@@ -9,7 +9,7 @@ You should use the appropriate heading tag, as outlined below. You can style the
 ```
 
 ### Appropriately nest headings
-Each heading should be appropriately nested as in the eample below, following a logical order.
+Each heading should be appropriately nested as in the example below, following a logical order.
 ```html
 <h1> Main Topic </h1>
   <h2> Comparison </h2>
@@ -20,7 +20,7 @@ Each heading should be appropriately nested as in the eample below, following a 
 ```
 
 ### Use concise Language
-It's important as you lable your headings to use concise language. For example instead of a section being called 'How Students can enroll in our summer camp program' you can reword this to 'Enrolling in Summer Camp' 
+It's important as you label your headings to use concise language. For example instead of a section being called 'How Students can enroll in our summer camp program' you can reword this to 'Enrolling in Summer Camp' 
 
 ## How to test for compliance
 We recommend using the [Skip to Headings browser extension](https://chromewebstore.google.com/detail/skipto-landmarks-headings/fjkpbfcodhflpdildjbmdhhmcoplghgf?pli=1) on Google Chrome. This will allow you to visually see the heading structure on your page.

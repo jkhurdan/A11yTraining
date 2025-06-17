@@ -43,10 +43,10 @@ It's important that you then click *enter* and ensure that the link does bring y
 
 ## Common Mistakes
 ### Link doesn't point to a location
-A very common mistake we see is for a 'Skip to Nav' to exist in the template, but the end user has not identified the point on the page to link to. This creates a dead link on your page essentially. It's important that at the begining of your  main content you are identifiying id="main" for the link to work.
+A very common mistake we see is for a 'Skip to Nav' to exist in the template, but the end user has not identified the point on the page to link to. This creates a dead link on your page essentially. It's important that at the beginning of your  main content you are identifying id="main" for the link to work.
 
 ### Link takes you to the top of the page
-This link should not bring you to the top of the page, as it then doesnot serve any purpose. It needs to bring you to a location after the main navgiation.
+This link should not bring you to the top of the page, as it then does not serve any purpose. It needs to bring you to a location after the main navigation.
 
 ## Other resources 
 * [WebAIM: Skip Navgiation Link](https://webaim.org/techniques/skipnav/)
