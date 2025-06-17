@@ -1,8 +1,8 @@
 # Web Content Accessibility Checklist
 1| **Build structure and context into your websites:**
-- Aria Landmarks
-- Headings
-- Skip Navigation Link
+- [Aria Landmarks](AriaLandmarks.md) 
+- [Headings](Headings.md)
+- [Skip Navigation Link](SkipNavigation.md)
 - Meaningful links
 
 2| **Provide multiple means of accessing information:**
