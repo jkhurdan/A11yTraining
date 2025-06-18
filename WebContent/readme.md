@@ -10,8 +10,8 @@
 - captions/transcripts on audio ad video
 
 3| **Use color appropriately:**
-- Avoid use of color only to represent meaning
-- Use appropriate color contrast 
+- [Avoid use of color only to represent meaning](NonColorIndicators.md)
+- [Use appropriate color contrast](ColorContrast.md) 
 
 4| **Provide accessible Tables:**
 
