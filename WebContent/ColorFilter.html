@@ -82,54 +82,60 @@
             <table id="dataTable" class="min-w-full bg-white rounded-corners">
                 <thead>
                     <tr>
-                        <th class="py-3 px-4 rounded-tl-xl">Item</th>
-                        <th class="py-3 px-4">Description</th>
-                        <th class="py-3 px-4">Foreground Color</th>
-                        <th class="py-3 px-4 rounded-tr-xl">Background Color</th>
+                        <th class="py-3 px-4 rounded-tl-xl">Foreground</th>
+                        <th class="py-3 px-4">Background</th>
+                        <th class="py-3 px-4">Small</th>
+                        <th class="py-3 px-4 rounded-tr-xl">Large</th>
                     </tr>
                 </thead>
                 <tbody>
+                    <tr>
+                        <td> CC0033 (Rutgers Red) </td>
+                        <td> 000000 (Black) </td>
+                        <td> Fail </td>
+                        <td> Fail </td>
+                    </tr>
                     <tr style="color: red; background-color: #e0f2f7;">
-                        <td>Apple</td>
-                        <td>A red fruit.</td>
                         <td>red</td>
                         <td>#e0f2f7 (Light Blue)</td>
+                        <td>Apple</td>
+                        <td>A red fruit.</td>
                     </tr>
                     <tr style="color: blue; background-color: #fffde7;">
-                        <td>Sky</td>
-                        <td>Often appears blue.</td>
                         <td>blue</td>
                         <td>#fffde7 (Light Yellow)</td>
+                        <td>Sky</td>
+                        <td>Often appears blue.</td>
                     </tr>
                     <tr style="color: green; background-color: #f3e5f5;">
-                        <td>Grass</td>
-                        <td>Usually green.</td>
                         <td>green</td>
                         <td>#f3e5f5 (Light Purple)</td>
+                        <td>Grass</td>
+                        <td>Usually green.</td>
                     </tr>
                     <tr style="color: black; background-color: #e8f5e9;">
-                        <td>Coal</td>
-                        <td>A black, combustible rock.</td>
                         <td>black</td>
                         <td>#e8f5e9 (Light Green)</td>
+                        <td>Coal</td>
+                        <td>A black, combustible rock.</td>
                     </tr>
                     <tr style="color: white; background-color: #ffccbc;">
-                        <td>Cloud</td>
-                        <td>White and fluffy.</td>
                         <td>white</td>
                         <td>#ffccbc (Light Orange)</td>
+                        <td>Cloud</td>
+                        <td>White and fluffy.</td>
                     </tr>
                     <tr style="color: purple; background-color: #fbe9e7;">
-                        <td>Grape</td>
-                        <td>Small, often purple fruit.</td>
                         <td>purple</td>
                         <td>#fbe9e7 (Light Coral)</td>
+                        <td>Grape</td>
+                        <td>Small, often purple fruit.</td>
                     </tr>
                     <tr style="color: orange; background-color: #e1f5fe;">
-                        <td>Orange</td>
-                        <td>A citrus fruit.</td>
                         <td>orange</td>
                         <td>#e1f5fe (Very Light Blue)</td>
+                        <td>Orange</td>
+                        <td>A citrus fruit.</td>
                     </tr>
                 </tbody>
             </table>
@@ -194,9 +200,9 @@
 
                 // Iterate over each table row (excluding the header row)
                 tableRows.forEach(row => {
-                    // Get the text content of the foreground and background color cells
-                    const rowFgColor = normalizeColor(row.children[2].textContent); // Index 2 is Foreground Color
-                    const rowBgColor = normalizeColor(row.children[3].textContent); // Index 3 is Background Color
+                    // Get the text content of the foreground and background color cells based on new column order
+                    const rowFgColor = normalizeColor(row.children[0].textContent); // Foreground is now at index 0
+                    const rowBgColor = normalizeColor(row.children[1].textContent); // Background is now at index 1
 
                     let matchesFg = false;
                     let matchesBg = false;
