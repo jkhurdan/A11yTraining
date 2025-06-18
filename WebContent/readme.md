@@ -13,9 +13,8 @@
 - [Avoid use of color only to represent meaning](NonColorIndicators.md)
 - [Use appropriate color contrast](ColorContrast.md) 
 
-4| **Provide accessible Tables:**
+4| **Provide [accessible Tables](Tables.md)**
 
 5| **Manage your PDFS and Documents:**
-- Tips for creating a plan around your documents
-- How to find and remove/archive unused PDFs
-- How to remediate PDFs
+- See our [PDF WorkFlow](PDFWorkFlow.md) to learn how to manage your content
+
