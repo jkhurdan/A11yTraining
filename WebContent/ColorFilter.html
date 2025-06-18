@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Table Color Filter 1</title>
+    <!-- Tailwind CSS CDN -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        /* Custom styles for the Inter font and overall aesthetics */
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: #f3f4f6; /* Light gray background */
+        }
+        table {
+            border-collapse: separate; /* Allows for rounded corners on cells */
+            border-spacing: 0;
+        }
+        th, td {
+            padding: 0.75rem;
+            text-align: left;
+            border-bottom: 1px solid #e5e7eb; /* Light gray border for separation */
+        }
+        th {
+            background-color: #1f2937; /* Darker header background */
+            color: #f9fafb; /* Light text for headers */
+            font-weight: 600; /* Semi-bold */
+        }
+        tr:last-child td {
+            border-bottom: none; /* No border for the last row's cells */
+        }
+        /* Rounded corners for table */
+        table.rounded-corners {
+            border-radius: 0.75rem; /* Rounded corners for the whole table */
+            overflow: hidden; /* Ensures child elements respect the border-radius */
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+        }
+        /* Style for the message box */
+        .message-box {
+            padding: 0.75rem;
+            margin-top: 1rem;
+            border-radius: 0.5rem;
+            font-weight: 500;
+            text-align: center;
+        }
+        .message-box.error {
+            background-color: #fee2e2; /* Red-ish background */
+            color: #ef4444; /* Red text */
+            border: 1px solid #fca5a5;
+        }
+        .message-box.info {
+            background-color: #dbeafe; /* Blue-ish background */
+            color: #2563eb; /* Blue text */
+            border: 1px solid #93c5fd;
+        }
+    </style>
+</head>
+<body class="p-6">
+    <div class="max-w-4xl mx-auto bg-white p-8 rounded-xl shadow-lg">
+        <h1 class="text-3xl font-bold text-gray-800 mb-6 text-center">Table Color Filter 1</h1>
+
+        <div class="mb-6 flex flex-col sm:flex-row items-center justify-center space-y-4 sm:space-y-0 sm:space-x-4">
+            <div class="w-full sm:w-auto">
+                <label for="foregroundColor" class="block text-gray-700 text-sm font-medium mb-2">Foreground Color (e.g., red, #FF0000):</label>
+                <input type="text" id="foregroundColor" placeholder="Enter color name or hex"
+                       class="mt-1 block w-full px-4 py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-blue-500 focus:border-blue-500 transition duration-150 ease-in-out">
+            </div>
+            <div class="w-full sm:w-auto">
+                <label for="backgroundColor" class="block text-gray-700 text-sm font-medium mb-2">Background Color (e.g., blue, #0000FF):</label>
+                <input type="text" id="backgroundColor" placeholder="Enter color name or hex"
+                       class="mt-1 block w-full px-4 py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-blue-500 focus:border-blue-500 transition duration-150 ease-in-out">
+            </div>
+            <button id="filterButton"
+                    class="mt-6 sm:mt-0 px-6 py-2 bg-blue-600 text-white font-semibold rounded-lg shadow-md hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2 transition duration-300 ease-in-out">
+                Apply Filter
+            </button>
+        </div>
+
+        <div id="messageBox" class="message-box hidden"></div>
+
+        <div class="overflow-x-auto rounded-xl">
+            <table id="dataTable" class="min-w-full bg-white rounded-corners">
+                <thead>
+                    <tr>
+                        <th class="py-3 px-4 rounded-tl-xl">Item</th>
+                        <th class="py-3 px-4">Description</th>
+                        <th class="py-3 px-4">Foreground Color</th>
+                        <th class="py-3 px-4 rounded-tr-xl">Background Color</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr style="color: red; background-color: #e0f2f7;">
+                        <td>Apple</td>
+                        <td>A red fruit.</td>
+                        <td>red</td>
+                        <td>#e0f2f7 (Light Blue)</td>
+                    </tr>
+                    <tr style="color: blue; background-color: #fffde7;">
+                        <td>Sky</td>
+                        <td>Often appears blue.</td>
+                        <td>blue</td>
+                        <td>#fffde7 (Light Yellow)</td>
+                    </tr>
+                    <tr style="color: green; background-color: #f3e5f5;">
+                        <td>Grass</td>
+                        <td>Usually green.</td>
+                        <td>green</td>
+                        <td>#f3e5f5 (Light Purple)</td>
+                    </tr>
+                    <tr style="color: black; background-color: #e8f5e9;">
+                        <td>Coal</td>
+                        <td>A black, combustible rock.</td>
+                        <td>black</td>
+                        <td>#e8f5e9 (Light Green)</td>
+                    </tr>
+                    <tr style="color: white; background-color: #ffccbc;">
+                        <td>Cloud</td>
+                        <td>White and fluffy.</td>
+                        <td>white</td>
+                        <td>#ffccbc (Light Orange)</td>
+                    </tr>
+                    <tr style="color: purple; background-color: #fbe9e7;">
+                        <td>Grape</td>
+                        <td>Small, often purple fruit.</td>
+                        <td>purple</td>
+                        <td>#fbe9e7 (Light Coral)</td>
+                    </tr>
+                    <tr style="color: orange; background-color: #e1f5fe;">
+                        <td>Orange</td>
+                        <td>A citrus fruit.</td>
+                        <td>orange</td>
+                        <td>#e1f5fe (Very Light Blue)</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            // Get references to DOM elements
+            const foregroundColorInput = document.getElementById('foregroundColor');
+            const backgroundColorInput = document.getElementById('backgroundColor');
+            const filterButton = document.getElementById('filterButton');
+            const dataTable = document.getElementById('dataTable');
+            const messageBox = document.getElementById('messageBox');
+            const tableRows = dataTable.querySelectorAll('tbody tr');
+
+            /**
+             * Displays a message in the message box.
+             * @param {string} message - The message to display.
+             * @param {string} type - The type of message ('error' or 'info').
+             */
+            const showMessage = (message, type) => {
+                messageBox.textContent = message;
+                messageBox.className = `message-box ${type}`; // Apply styling based on type
+                messageBox.classList.remove('hidden'); // Make it visible
+            };
+
+            /**
+             * Hides the message box.
+             */
+            const hideMessage = () => {
+                messageBox.classList.add('hidden'); // Hide the message box
+            };
+
+            /**
+             * Normalizes a color string for comparison.
+             * This simple normalization converts common color names to lowercase and trims whitespace.
+             * For more robust color comparison (e.g., hex to rgb conversion), a dedicated library would be needed.
+             * @param {string} color - The color string to normalize.
+             * @returns {string} The normalized color string.
+             */
+            const normalizeColor = (color) => {
+                return color.toLowerCase().trim();
+            };
+
+            /**
+             * Handles the filtering logic when the button is clicked.
+             */
+            filterButton.addEventListener('click', () => {
+                hideMessage(); // Clear previous messages
+
+                const fgColor = normalizeColor(foregroundColorInput.value);
+                const bgColor = normalizeColor(backgroundColorInput.value);
+
+                // Validate input: at least one color must be provided
+                if (!fgColor && !bgColor) {
+                    showMessage('Please enter at least a foreground or background color to filter.', 'error');
+                    return; // Stop execution if no input
+                }
+
+                let resultsFound = false; // Flag to track if any rows match the filter
+
+                // Iterate over each table row (excluding the header row)
+                tableRows.forEach(row => {
+                    // Get the text content of the foreground and background color cells
+                    const rowFgColor = normalizeColor(row.children[2].textContent); // Index 2 is Foreground Color
+                    const rowBgColor = normalizeColor(row.children[3].textContent); // Index 3 is Background Color
+
+                    let matchesFg = false;
+                    let matchesBg = false;
+
+                    // Check if foreground color matches (if provided)
+                    if (fgColor) {
+                        matchesFg = rowFgColor.includes(fgColor); // Use includes for partial matching
+                    } else {
+                        matchesFg = true; // If no foreground color is provided, it's considered a match
+                    }
+
+                    // Check if background color matches (if provided)
+                    if (bgColor) {
+                        matchesBg = rowBgColor.includes(bgColor); // Use includes for partial matching
+                    } else {
+                        matchesBg = true; // If no background color is provided, it's considered a match
+                    }
+
+                    // A row is shown if both specified colors (if any) match
+                    if (matchesFg && matchesBg) {
+                        row.style.display = ''; // Show the row
+                        resultsFound = true;
+                    } else {
+                        row.style.display = 'none'; // Hide the row
+                    }
+                });
+
+                // Display a message if no results were found
+                if (!resultsFound) {
+                    showMessage('No items match your filter criteria. Please try different colors.', 'info');
+                } else {
+                    // Optionally, show a success message if results are found
+                    showMessage('Table filtered successfully!', 'info');
+                }
+            });
+        });
+    </script>
+</body>
+</html>
