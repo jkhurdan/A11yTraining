@@ -25,6 +25,6 @@ See the Rutgers [Color Contrast Look up](https://jkhurdan.github.io/A11yTraining
 
 ## WCAG Standards
 * [1.1.1 Non-text Content](https://www.w3.org/WAI/WCAG21/quickref/#qr-text-equiv-all)
-* [1.4.1 Use of Color]https://www.w3.org/WAI/WCAG22/Understanding/use-of-color.html)
+* [1.4.1 Use of Color](https://www.w3.org/WAI/WCAG22/Understanding/use-of-color.html)
 * [1.4.3 Contrast (Minimum)](https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum) 
 * [1.4.11 Non-text Contrast](https://www.w3.org/WAI/WCAG22/Understanding/non-text-contrast.html)
