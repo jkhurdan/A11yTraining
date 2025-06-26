@@ -19,7 +19,7 @@ Additionally, you should check any text in images, and any text above an image (
 ### Links
 A common mistake we see often is the color of hyperlinks on your page. In many cases this is set on in the .css as part of the template, and used against multiple backgrounds with out consideration to all those new colors. 
 
-See the Rutgers Color Guide for which color combinations meet standards
+See the Rutgers [Color Contrast Look up](https://jkhurdan.github.io/A11yTraining/WebContent/ColorFilter.html) for which color combinations meet standards
 
 ## Other resources
 
