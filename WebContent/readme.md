@@ -7,7 +7,7 @@
 
 2| **Provide multiple means of accessing information:**
 - [Alternate text on images](Images.md)
-- captions/transcripts on audio ad video
+- captions/transcripts on audio and video
 
 3| **Use color appropriately:**
 - [Avoid use of color only to represent meaning](NonColorIndicators.md)

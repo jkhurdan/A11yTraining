@@ -82,10 +82,11 @@ You can also use Sensus Access, to upload the document. Select Accessible Conver
 ### Common issues converting to PDF
 Below are some issues we found as we were doing this demo and how to fix it
 * [Repeat table heading row (in word)](https://support.microsoft.com/en-us/office/repeat-table-header-on-subsequent-pages-2ff677e0-3150-464a-a283-fa52794b4b41)
-* F[ixing tables that span multiple pages (in Adobe)](https://www.youtube.com/watch?v=ykP9KAAVhSg&t=1s)
+* [Fixing tables that span multiple pages (in Adobe)](https://www.youtube.com/watch?v=ykP9KAAVhSg&t=1s)
 * [Adding alt text to images (in Adobe)](https://elearning.adobe.com/2024/02/how-to-add-alt-text-in-adobe-acrobat-a-step-by-step-guide/)
 * [Adding a title to document (in Adobe)](https://helpx.adobe.com/acrobat/using/pdf-properties-metadata.html)
 * [Color Contrast Checker ](https://webaim.org/resources/contrastchecker/)
+* [Rutgers Color Contrast Look Up](https://jkhurdan.github.io/A11yTraining/WebContent/ColorFilter.html)
 
 ## 4. Review/Remediate your PDF
 We recommend using Adobe Acrobat to remediate your PDF.
