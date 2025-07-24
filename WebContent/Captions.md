@@ -6,7 +6,7 @@ According to US government figures, one person in eight has some functional hear
 You can use tools like Kaltura Media Space as a starting point for creating automated captions. For people with disabilities, automated tools may not be enough to provide appropriate accessible versions. For captions you will want to review the captions to ensure that the captions are accurate.
 
 ### Transcripts as alternative media
-Trascripts, unlike captions, are not always scryronized with the audio content. For items like podcasts, TedTalks, interviews, or other mediums where there isn't alot of additional movement and sounds that need to be referenced a transcript could be an acceptable media alternative. 
+Transcripts, unlike captions, are not always scryronized with the audio content. For items like podcasts, TedTalks, interviews, or other mediums where there isn't alot of additional movement and sounds that need to be referenced a transcript could be an acceptable media alternative. 
 
 ### Captions in third party sites
 If you are using a third-party tool like Youtube, often times you can click a filter button after searching, to filter for those videa with captions. 
