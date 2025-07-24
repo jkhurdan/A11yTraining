@@ -19,7 +19,7 @@ The Described and Captioned Media Program (DCMP) has created standards for forma
 * It is prefered that there is no more than 1-2 lines of text per screen.
 * Use sentence case rather than all CAPS
 * Use a readable font of average thickness. Use of white characters is prefered, with medium weighted sans serif font. 
-* Text shold be centered on the screen and left-aligned
+* Text should be centered on the screen and left-aligned
 * Color contrast should be sufficent to stand out against the background (but not visually distruptive)
 * Captions should a have a mimumun duration of 40 frames (~1.5 seconds) and a maximum duration of 6 seconds. (Background music notation is an exception to this guideline).
 
@@ -34,6 +34,8 @@ You should always review the captions to ensure that they are accurate, which in
 
 
 ## Common Mistakes
+### Not checking for accuracy
+In many cases unusual words like Rutgers, may appear as Rukers. Be sure you are reviewing the captions prior to publishing your video.
 
 ## Other resources
 * [Described and Caption Media Program](https://dcmp.org/)
