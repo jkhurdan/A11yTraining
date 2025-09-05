@@ -14,14 +14,14 @@ Before we begin, let's make sure you have access to all of the items in the list
    <p>
      <ul>
        <li> Schedule Sent </li>
-       <li> Eamil/Calendar Set Up </li>
+       <li> Email/Calendar Set Up </li>
      </ul>
    </p>
  </details>
 
 ## Accessibility Basics
 ### Articles/Reference Materials
-The following items are a list resources we'd like you to review to get a better understanding of disabilities. Please review all of these items
+The following items are a list of resources we'd like you to review to get a better understanding of disabilities. Please review all of these items
 * [Tips for working with different disabilities](https://radr.rutgers.edu/resource/tips-working-different-disabilities)
 * [10 Commandments of Communication](https://radr.rutgers.edu/resource/10-commandments-communication)
 * [Social Vs Medical model](https://www.thesocialcreatures.org/thecreaturetimes/the-social-model-of-disability)
