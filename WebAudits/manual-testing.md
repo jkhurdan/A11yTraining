@@ -56,7 +56,19 @@ Select the screen reader you are using below. The instructions assumes you have 
       <tr>
         <td> Caps Lock + F7  <br> 
             Insert + F7 </td> 
-        <td> Opens a navigation window <sup> 1 </sup> </td>
+        <td> Opens an eleements list dialogue <sup> 1 </sup> </td>
+      </tr>
+          <tr>
+        <td> Press Alt + H </td> 
+        <td> This should put your focus on Headings radio button </td>
+      </tr>
+       <tr>
+        <td> Press tab </td> 
+        <td> This should put your focus list of headings </td>
+      </tr>
+      <tr>
+        <td> Press the down arrow key </td> 
+        <td> The screen reader should read out the heading and heading level. You can also visually see this in the list. </td>
       </tr>
     </table>
   <hr>
