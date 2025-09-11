@@ -26,6 +26,7 @@ If you are using a CMS, this is often times built into the template file itself 
 
 <hr> 
 
+
 ### Appropriate Heading Structure
 <p> Most blind users will navigate your site using the headings, or the Ctrl + F (find) function. </p>
 
@@ -81,7 +82,7 @@ Select the screen reader you are using below. The instructions assumes you have 
 </details>
 
 <details>
-  <summary> JAWS </summary>
+  <summary> JAWS - desktop testing </summary>
   <p> For optimaal results please conduct all test in Chrome <br>
     <table> 
       <tr>
@@ -104,7 +105,7 @@ Select the screen reader you are using below. The instructions assumes you have 
 </details>
 
 <details>
-  <summary> VoiceOver </summary>
+  <summary> VoiceOver - desktop testing </summary>
     <p> For optimaal results please conduct all test in FireFox <br>
     <table> 
       <tr>
@@ -230,12 +231,12 @@ Select the screen reader you are using below. The instructions assumes you have 
         <td> Opens up your rotator <sup> 1 </sup> </td>
       </tr>
           <tr>
-        <td> Press the right arrow key </td> 
-        <td> The rotator will slide over to the list of headings. </td>
+        <td> Press the right arrow key until you get to the landmarks menu </td> 
+        <td> The rotator will slide over to the list of landmarks </td>
       </tr>
       <tr>
         <td> Press the down arrow key </td> 
-        <td> The screen reader should read out the heading and heading level. You can also visually see this in the list. </td>
+        <td> The screen reader should read out each landmark on the page. You can also visually see this in the list. </td>
       </tr>
     </table>
    Foot notes: <br>
