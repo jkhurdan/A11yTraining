@@ -24,6 +24,8 @@
 **Troubleshooting:** <br>
 If you are using a CMS, this is often times built into the template file itself and you will need to work with your web developer to have them fix this issue.
 
+<hr> 
+
 ### Appropriate Heading Structure
 <p> Most blind users will navigate your site using the headings, or the Ctrl + F (find) function. </p>
 
@@ -137,3 +139,5 @@ Select the screen reader you are using below. The instructions assumes you have 
   </ol>
   &ast; Some plugins may not identify empty headings. It's important you are running an automated tool like <a href="https://wave.webaim.org/"> WAVE by WebAim </a> or doing screen reading testing for a complete testing experience. 
 </p>
+<hr>
+
