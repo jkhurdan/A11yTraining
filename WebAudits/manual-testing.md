@@ -71,25 +71,62 @@ Select the screen reader you are using below. The instructions assumes you have 
         <td> The screen reader should read out the heading and heading level. You can also visually see this in the list. </td>
       </tr>
     </table>
-  <hr>
   Foot notes: <br>
   <ol>
-    <li> When NVDA opens, it'll ask for your identifier key. By default Caps Lock will be checked. This option can be changed. If the menu does not open, try Insert + F7 instead. Additionally, if you hear "This feature is only available in a web document, like a page on the internet", then the page has not loaded fully. Try refreshing the page, and waiting a few minutes. </li>
+    <li> When NVDA opens, it'll ask for your identifier key. By default Caps Lock will be checked. This option can be changed. If the menu does not open, try Insert + F7 instead. Additionally, if you hear "This feature is only available in a web document, like a page on the internet", then try refreshing the page. </li>
   </ol>
-  
   </p>
 </details>
 
 <details>
   <summary> JAWS </summary>
+  <p> For optimaal results please conduct all test in Chrome <br>
+    <table> 
+      <tr>
+        <th> Action </th>
+        <th> Expected Results </th>
+      </tr>
+      <tr>
+        <td> Insert + F6 </td> 
+        <td> Opens an eleements list dialogue <sup> 1 </sup> </td>
+      </tr>
+      <tr>
+        <td> Press the down arrow key </td> 
+        <td> The screen reader should read out the heading and heading level. You can also visually see this in the list. </td>
+      </tr>
+    </table>
+   Foot notes: <br>
+  <ol>
+    <li> If you hear "This feature is only available in a virtual document, like a page on the internet", try refreshing the page. </li>
+  </ol>
 </details>
 
 <details>
   <summary> VoiceOver </summary>
+    <p> For optimaal results please conduct all test in FireFox <br>
+    <table> 
+      <tr>
+        <th> Action </th>
+        <th> Expected Results </th>
+      </tr>
+      <tr>
+        <td> VO Key (Ctrl + Option) + U </td> 
+        <td> Opens up your rotator <sup> 1 </sup> </td>
+      </tr>
+          <tr>
+        <td> Press the right arrow key </td> 
+        <td> The rotator will slide over to the list of headings. </td>
+      </tr>
+      <tr>
+        <td> Press the down arrow key </td> 
+        <td> The screen reader should read out the heading and heading level. You can also visually see this in the list. </td>
+      </tr>
+    </table>
+   Foot notes: <br>
+  <ol>
+    <li> Your VO Key, which will be represented as just VO, is Ctrl + Option. If you hear "This feature is only available in a virtual document, like a page on the internet", try refreshing the page. </li>
+  </ol>
 </details>
-
-
-
 
 #### Expected Results
   <ol> 
