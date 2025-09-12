@@ -3,6 +3,7 @@
 ## Blindness
 ### Skip to Main is present and functions as expected
 <p> The Skip to main allows for users to bypass the main navigation on the page, as they go through your website. </p>
+
 **Tools Used:** Keyboard only <br>
 
 **Testing instructions:** <br>
@@ -176,12 +177,12 @@ Select the screen reader you are using below. The instructions assumes you have 
         <td> Opens an eleements list dialogue <sup> 1 </sup> </td>
       </tr>
           <tr>
-        <td> Press Alt + H </td> 
-        <td> This should put your focus on Headings radio button </td>
+        <td> Press Alt + D </td> 
+        <td> This should put your focus on Landmarks radio button </td>
       </tr>
        <tr>
         <td> Press tab </td> 
-        <td> This should put your focus list of headings </td>
+        <td> This should put your focus list of Landmarks </td>
       </tr>
       <tr>
         <td> Press the down arrow key </td> 
@@ -204,18 +205,14 @@ Select the screen reader you are using below. The instructions assumes you have 
         <th> Expected Results </th>
       </tr>
       <tr>
-        <td> Insert + F6 </td> 
-        <td> Opens an eleements list dialogue <sup> 1 </sup> </td>
+        <td> Insert + Crtl + ; (semicolon)</td> 
+        <td> Opens a list of landmarks on the page </td>
       </tr>
       <tr>
         <td> Press the down arrow key </td> 
         <td> The screen reader should read out the heading and heading level. You can also visually see this in the list. </td>
       </tr>
     </table>
-   Foot notes: <br>
-  <ol>
-    <li> If you hear "This feature is only available in a virtual document, like a page on the internet", try refreshing the page. </li>
-  </ol>
 </details>
 
 <details>
@@ -252,4 +249,46 @@ Select the screen reader you are using below. The instructions assumes you have 
   </ol> 
 </p>
 <hr>
+
+### Tab Key Test 1: Menu Test
+This test will ensure that a user with a screen reader can navigate through your manu with out issue.
+
+#### Testing Method 1: Tab Key only 
+<p>
+<b> Tools used: </b> Tab Key <br>
+<b> Testing instructions: </b> <br>
+Press your tab key to ensure that you are able to navigate to the menu, read all of the menu items, including accessing any submenus. 
+</p>
+
+#### Screen Reader Validation (Arrow Keys)
+<p>
+  <b> Tools Used: </b>
+  <ul>
+  <li> <a href="https://www.nvaccess.org/download/"> NVDA </a> can be installed on any windows device.  </li>
+  <li> <a href="https://portal.freedomscientific.com/SponsoredSoftware"> JAWS </a> can be installed from the freedom scientific website using your [at]rutgers.edu email address. </li>
+  <li> VoiceOver comes preinstalled on all iOS and MacOS devices </li>
+</ul>
+<br>
+<b> Testing Instructions: </b> <br>
+For the following tests you are going to use your Next element key for each screen reader to read the page, element by element:
+<table>
+  <tr>
+    <th> Screen Reader </th>
+    <th> Command </th>
+  </tr>
+  <tr>
+    <td> NVDA </td>
+    <td> right arrow</td>
+  </tr>
+    <tr>
+    <td> JAWS </td>
+    <td> right down arrow </td>
+  </tr>
+    <tr>
+    <td> VoiceOver </td>
+    <td> VO + Right Arrow </td>
+  </tr>
+</table>
+The default VO key is Ctrl + Option.
+</p>
 
