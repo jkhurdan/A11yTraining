@@ -291,4 +291,50 @@ For the following tests you are going to use your Next element key for each scre
 </table>
 The default VO key is Ctrl + Option.
 </p>
+<hr>
+
+
+
+
+## Low Vision
+
+### Menu Collapsed and Usable
+<b> Tool Used: </b> Browser zoom in function <br>
+<p>
+<b> Testing Instructions: </b> <br>
+While WCAG Requires users to test at 200%, most low vision users we have encountered will increase the page between 350%-400%. As such you will encrease your browser to 400%. As some screens are larger than others, you will also adjust the size of your window to half the wiidth of your screen. </p>
+<p>
+
+<b> Expected Results: </b> <br>
+* The menu should collapse, and there should be a hamburger menu that allows you to open the menu
+* All items in the menu should be readable, and they should not break the page (letters shouldn't be cut off in the words). For example if the link title read "Understanding the Geopolitics between North and South Dakota", and now the link just reads "Understanding the geop"
+* The menu item is still readable, and there are no contrast errors presented as a result of the page change
+</p>
+
+### Page Reflowed correclty, and all contents are still readable 
+<b> Tool Used: </b> Browser zoom in function <br>
+<p>
+<b> Testing Instructions: </b> <br>
+While WCAG Requires users to test at 200%, most low vision users we have encountered will increase the page between 350%-400%. As such you will encrease your browser to 400%. As some screens are larger than others, you will also adjust the size of your window to half the wiidth of your screen. </p>
+<p>
+
+<b> Expected Results: </b> <br>
+* All of items on the page should have reflowed, and there shouldn't be any text cut off on the page
+* Images should still be present and should not be cut off on the page
+* There shouldn't be any items obstructing the page. For example sometimes there's a notification bar or header that has a fixed position that will obstruct the text on the page.
+</p>
+
+### Color Contrast Verified 
+<b> Tool Used: </b> <a href="https://wave.webaim.org/"> WAVE by WebAim </a> <br>
+<p>
+<b> Testing Instructions: </b> <br>
+Open WAVe by webaim, and proceed to the Contrast tab. You will need to use the Color Picker tool to verify all of the issues it has identified.  </p>
+<p>
+
+<b> Expected Results: </b> <br>
+* All of items on the page should meet WCAG 2.1 AA standards
+</p>
+
+
+
 
