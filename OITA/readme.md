@@ -61,7 +61,7 @@ The following are self paced items you can choose to watch, if you'd like to ext
 ### Level 1 – No website experience
 Level 1 testing is meant for those who struggle understanding and using an automated testing tool like WAVE. It is below the minimum threshold of testing, but recognizes that there are high impact items you could evaluate with out needing to full automated/manual testing.
 * [Level 1 training (DAN)](https://rutgersconnect.sharepoint.com/:v:/r/sites/oit-digitalaccessibilitynetwork/Shared%20Documents/Trainings/2024-10-01-%20Automated%20Testing/2024-10-18%2011-52-08.mp4?csf=1&web=1&e=vQP3CU) | How to use just browswer plug-ins to conduct automated testing on webpages
-* [Web Audits for Non‐technical Staff](https://github.com/jkhurdan/A11yTraining/wiki/Web-Audits-(Non%E2%80%90technical-Staff)
+* [Web Audits for Non‐technical Staff](https://github.com/jkhurdan/A11yTraining/wiki/Web-Audits-(Non%E2%80%90technical-Staff))
 * [Website Testing‐ Level 1 Walk‐through](https://github.com/jkhurdan/A11yTraining/wiki/Website-Testing%E2%80%90-Level-1-Walk%E2%80%90through)
 
 ### Level 2 – Minimum standards
