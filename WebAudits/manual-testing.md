@@ -260,37 +260,6 @@ This test will ensure that a user with a screen reader can navigate through your
 Press your tab key to ensure that you are able to navigate to the menu, read all of the menu items, including accessing any submenus. 
 </p>
 
-#### Screen Reader Validation (Arrow Keys)
-<p>
-  <b> Tools Used: </b>
-  <ul>
-  <li> <a href="https://www.nvaccess.org/download/"> NVDA </a> can be installed on any windows device.  </li>
-  <li> <a href="https://portal.freedomscientific.com/SponsoredSoftware"> JAWS </a> can be installed from the freedom scientific website using your [at]rutgers.edu email address. </li>
-  <li> VoiceOver comes preinstalled on all iOS and MacOS devices </li>
-</ul>
-<br>
-<b> Testing Instructions: </b> <br>
-For the following tests you are going to use your Next element key for each screen reader to read the page, element by element:
-<table>
-  <tr>
-    <th> Screen Reader </th>
-    <th> Command </th>
-  </tr>
-  <tr>
-    <td> NVDA </td>
-    <td> right arrow</td>
-  </tr>
-    <tr>
-    <td> JAWS </td>
-    <td> right down arrow </td>
-  </tr>
-    <tr>
-    <td> VoiceOver </td>
-    <td> VO + Right Arrow </td>
-  </tr>
-</table>
-The default VO key is Ctrl + Option.
-</p>
 <hr>
 
 
