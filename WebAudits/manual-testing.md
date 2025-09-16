@@ -308,8 +308,9 @@ While WCAG Requires users to test at 200%, most low vision users we have encount
 <b> Expected Results: </b> <br>
 * The menu should collapse, and there should be a hamburger menu that allows you to open the menu
 * All items in the menu should be readable, and they should not break the page (letters shouldn't be cut off in the words). For example if the link title read "Understanding the Geopolitics between North and South Dakota", and now the link just reads "Understanding the geop"
-* The menu item is still readable, and there are no contrast errors presented as a result of the page change
+* The menu item is still visually readable, and there are no contrast errors presented as a result of the page change
 </p>
+<hr>
 
 ### Page Reflowed correclty, and all contents are still readable 
 <b> Tool Used: </b> Browser zoom in function <br>
@@ -319,10 +320,11 @@ While WCAG Requires users to test at 200%, most low vision users we have encount
 <p>
 
 <b> Expected Results: </b> <br>
-* All of items on the page should have reflowed, and there shouldn't be any text cut off on the page
+* All of items on the page should have reflowed including the menu, and there shouldn't be any text cut off on the page
 * Images should still be present and should not be cut off on the page
 * There shouldn't be any items obstructing the page. For example sometimes there's a notification bar or header that has a fixed position that will obstruct the text on the page.
 </p>
+<hr>
 
 ### Color Contrast Verified 
 <b> Tool Used: </b> <a href="https://wave.webaim.org/"> WAVE by WebAim </a> <br>
@@ -334,7 +336,37 @@ Open WAVe by webaim, and proceed to the Contrast tab. You will need to use the C
 <b> Expected Results: </b> <br>
 * All of items on the page should meet WCAG 2.1 AA standards
 </p>
+<hr>
 
+### Keyboard Traps 
+<b> Tool Used: </b> Browser zoom in function <br>
+<p>
+<b> Testing Instructions: </b> <br>
+While WCAG Requires users to test at 200%, most low vision users we have encountered will increase the page between 350%-400%. As such you will encrease your browser to 400%. As some screens are larger than others, you will also adjust the size of your window to half the wiidth of your screen.
+</p>
+<p> From here you are going to tab through your menu, and hit the esc key to close it. Proceed to do this for any item that appears in a module or pop up, like chat bots, images, warnings/alerts, etc. </p>
+<p>
 
+<b> Expected Results: </b> <br>
+* Items should close when using the esc key
+</p>
+<hr>
 
+## d/Deaf and Hard of Hearing
 
+### Cloased Captioning on Videos
+<b> Tool Used: </b> N/a <br>
+<p>
+<b> Testing Instructions: </b> <br>
+Review the page to find any videos that are embeded inside the page. Videos may have open captions - which is text that is embeded in the video, or closed captions- which is a file that you can turn on and off, and overlays ontop of the video.  </p>
+<p>
+
+<b> Expected Results: </b> <br>
+* The captions should match what is being said and use appropriate grammar and punctuation to convey intended meaning (i.e “Let’s eat, Grandma” vs. “Let’s eat Grandma”).
+* Captions shoudl appropriately sync with when the audio happens
+* Includes a completed textual representation of the audio, including speaker identification and non-spech information. This includes denoting sounds that are important (i.e melodic music)
+* Captions should have a minimum duration of 40 frames (~1.5 seconds) and a maximum duration of 6 seconds. Background music notation is an exception to this guideline.
+* Transcripts, unlike captions, are not always synchronized with audio content. For items like podcasts, TED Talks, interviews, or other mediums where there aren’t a lot of additional movement and sounds that need to be referenced, a transcript could be an acceptable media alternative.
+* Captions (especially open captions) should have sufficent constrast between the text and the background. 
+</p>
+<hr>
