@@ -354,7 +354,7 @@ While WCAG Requires users to test at 200%, most low vision users we have encount
 
 ## d/Deaf and Hard of Hearing
 
-### Cloased Captioning on Videos
+### Closed Captioning on Videos
 <b> Tool Used: </b> N/a <br>
 <p>
 <b> Testing Instructions: </b> <br>
