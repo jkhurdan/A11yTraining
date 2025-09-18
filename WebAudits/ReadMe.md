@@ -30,3 +30,10 @@ Coming Soon
 
 ### Usability Testing:
 Coming soon
+
+## Level 3
+This is the full manual testing guidelines
+
+* [Disability Personas](https://github.com/jkhurdan/A11yTraining/blob/main/WebAudits/Personas.md)
+* [Manual Testing Checklist](https://jkhurdan.github.io/A11yTraining/WebAudits/manual-testing.html)
+* [Full Manual Testing Guidelines/how-tos](https://github.com/jkhurdan/A11yTraining/blob/main/WebAudits/manual-testing.md)
