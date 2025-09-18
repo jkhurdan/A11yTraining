@@ -12,7 +12,7 @@ There are 3 main levels of screen reader users:
         <th> Common Commands </th>
     </tr>
     <tr> 
-        <td> Level 1: Basic access user (beginnger) </td>
+        <td> Level 1: Basic access user (beginner) </td>
         <td> Basic understanding of how to use the screen reader. May use it only when 'needed'. These individuals may be:
             <ul>
                 <li> Newly diagnosed </li>
