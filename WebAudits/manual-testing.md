@@ -259,10 +259,109 @@ This test will ensure that a user with a screen reader can navigate through your
 <b> Testing instructions: </b> <br>
 Press your tab key to ensure that you are able to navigate to the menu, read all of the menu items, including accessing any submenus. 
 </p>
-
+<p> <a href="https://github.com/jkhurdan/A11yTraining/blob/main/WebAudits/Elements-List.md#menus"> See Accessible Menu </a> Elements pages for full breakdown of screen reader expecctations </p>
 <hr>
 
+#### Testing Method 2: No Keyboard traps
+<p>
+<b> Tools used: </b> Tab Key , Esc Key <br>
+<b> Testing instructions: </b> <br>
+<p> For this you will want to identify areas that your users can open/close. Press your tab key to ensure that you are able to navigate to through the whole page, and ensure you are able to access all of the content. If there are items that expand, like chatbots, submenus, module boxes, etc press your esc key and ensure you are able to press esc to exit out of it. </p>
+<hr>
 
+#### Arrow Key 1: Reading Order
+<p></p>
+<b> Tools Used: </b> 
+<ul>
+  <li> <a href="https://www.nvaccess.org/download/"> NVDA </a> can be installed on any windows device.  </li>
+  <li> <a href="https://portal.freedomscientific.com/SponsoredSoftware"> JAWS </a> can be installed from the freedom scientific website using your [at]rutgers.edu email address. </li>
+  <li> VoiceOver comes preinstalled on all iOS and MacOS devices </li>
+</ul>
+Screen readers will also navigate the site, using the next element button.
+
+Select the screen reader you are using below. The instructions assumes you have launched the screen reader, and opened the page.
+<details>
+  <summary> NVDA - desktop testing </summary>
+  <p> For optimaal results please conduct all test in Chrome <br>
+    <table> 
+      <tr>
+        <th> Action </th>
+        <th> Expected Results </th>
+      </tr>
+      <tr>
+        <td> Caps Lock + F7  <br> 
+            Insert + F7 </td> 
+        <td> Opens an eleements list dialogue <sup> 1 </sup> </td>
+      </tr>
+          <tr>
+        <td> Press Alt + H </td> 
+        <td> This should put your focus on Headings radio button </td>
+      </tr>
+       <tr>
+        <td> Press tab </td> 
+        <td> This should put your focus list of headings </td>
+      </tr>
+      <tr>
+        <td> Press the down arrow key </td> 
+        <td> The screen reader should read out the heading and heading level. You can also visually see this in the list. </td>
+      </tr>
+    </table>
+  Foot notes: <br>
+  <ol>
+    <li> When NVDA opens, it'll ask for your identifier key. By default Caps Lock will be checked. This option can be changed. If the menu does not open, try Insert + F7 instead. Additionally, if you hear "This feature is only available in a web document, like a page on the internet", then try refreshing the page. </li>
+  </ol>
+  </p>
+</details>
+
+<details>
+  <summary> JAWS - desktop testing </summary>
+  <p> For optimaal results please conduct all test in Chrome <br>
+    <table> 
+      <tr>
+        <th> Action </th>
+        <th> Expected Results </th>
+      </tr>
+      <tr>
+        <td> Insert + F6 </td> 
+        <td> Opens an eleements list dialogue <sup> 1 </sup> </td>
+      </tr>
+      <tr>
+        <td> Press the down arrow key </td> 
+        <td> The screen reader should read out the heading and heading level. You can also visually see this in the list. </td>
+      </tr>
+    </table>
+   Foot notes: <br>
+  <ol>
+    <li> If you hear "This feature is only available in a virtual document, like a page on the internet", try refreshing the page. </li>
+  </ol>
+</details>
+
+<details>
+  <summary> VoiceOver - desktop testing </summary>
+    <p> For optimaal results please conduct all test in FireFox <br>
+    <table> 
+      <tr>
+        <th> Action </th>
+        <th> Expected Results </th>
+      </tr>
+      <tr>
+        <td> VO Key (Ctrl + Option) + U </td> 
+        <td> Opens up your rotator <sup> 1 </sup> </td>
+      </tr>
+          <tr>
+        <td> Press the right arrow key </td> 
+        <td> The rotator will slide over to the list of headings. </td>
+      </tr>
+      <tr>
+        <td> Press the down arrow key </td> 
+        <td> The screen reader should read out the heading and heading level. You can also visually see this in the list. </td>
+      </tr>
+    </table>
+   Foot notes: <br>
+  <ol>
+    <li> Your VO Key, which will be represented as just VO, is Ctrl + Option. If you hear "This feature is only available in a virtual document, like a page on the internet", try refreshing the page. </li>
+  </ol>
+</details>
 
 
 ## Low Vision
