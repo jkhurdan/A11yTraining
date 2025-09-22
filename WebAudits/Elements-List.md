@@ -1,4 +1,4 @@
-#Types of Web Elements
+# Types of Web Elements
 
 ## Menus
 The W3C WAI has a tutorial on how menus should be used for navigation, included expected screen reader behavior. Please refer to the following pages:
