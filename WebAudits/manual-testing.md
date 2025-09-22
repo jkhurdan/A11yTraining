@@ -252,8 +252,6 @@ Select the screen reader you are using below. The instructions assumes you have 
 
 ### Tab Key Test 1: Menu Test
 This test will ensure that a user with a screen reader can navigate through your manu with out issue.
-
-#### Testing Method 1: Tab Key only 
 <p>
 <b> Tools used: </b> Tab Key <br>
 <b> Testing instructions: </b> <br>
