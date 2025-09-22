@@ -259,10 +259,10 @@ This test will ensure that a user with a screen reader can navigate through your
 <b> Testing instructions: </b> <br>
 Press your tab key to ensure that you are able to navigate to the menu, read all of the menu items, including accessing any submenus. 
 </p>
-<p> <a href="https://github.com/jkhurdan/A11yTraining/blob/main/WebAudits/Elements-List.md#menus"> See Accessible Menu </a> Elements pages for full breakdown of screen reader expecctations </p>
+<p> <a href="https://github.com/jkhurdan/A11yTraining/blob/main/WebAudits/Elements-List.md#menus"> See Accessible Menu </a> Elements pages for full breakdown of screen reader expectations </p>
 <hr>
 
-### Testing Method 2: No Keyboard traps
+### Tab Key Test 2: No Keyboard traps
 <p>
 <b> Tools used: </b> Tab Key , Esc Key <br>
 <b> Testing instructions: </b> <br>
