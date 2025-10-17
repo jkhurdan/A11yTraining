@@ -90,4 +90,23 @@ Down </td>
 </table>
 
 
+## Carousels 
+The W3C WAI has a tutorial on how Carousels should be used for navigation, included expected screen reader behavior. Please refer to the following pages:
+<ul>
+ <li> <a href="https://www.w3.org/WAI/tutorials/carousels/structure/"> Structure </a>: Use semantic structure for the carousel to support proper function of assistive technology. </li>
+ <li> <a href="https://www.w3.org/WAI/tutorials/carousels/functionality/"> Functionality</a>:: Add functionality to display and announce carousel items. </li>
+ <li> <a href="https://www.w3.org/WAI/tutorials/carousels/animations/"> Animations</a>:: Add a transition animation between items and ensure users can stop and resume it. </li>
+ <li> <a href="https://www.w3.org/WAI/tutorials/carousels/styling/"> Styling</a>:: Style the carousel to make sure it’s usable and readable by everyone. </li>
+</ul>
+
+### Expected Behavior
+<p>
+<ul>
+<li> Users must be able to pause carousel movement because it can be too fast or distracting, making text hard to read. </li>
+<li>All functionality, including navigating between carousel items, must be operable by keyboard. </li>
+<li>Changes to carousel items must be communicated to all users, including screen reader users.</li>
+<li>The keyboard position (“focus”) is managed in a reasonable and comprehensible fashion. </li>
+</ul>
+</p>
+<p> Note: Carousels are disputed from a usability perspective because their content can be hard to discover. It also can be difficult to navigate through items. We recommend avoiding the use of carousels when possible. </p>
 
