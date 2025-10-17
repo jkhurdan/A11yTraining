@@ -269,6 +269,15 @@ Press your tab key to ensure that you are able to navigate to the menu, read all
 
 ### Arrow Key 1: Reading Order
 <p></p>
+
+#### Testing Method 1: Broswer Plug In 
+<p>
+<b> Tools used: </b>  <a href="https://wave.webaim.org/"> WAVE by WebAim </a>  <br>
+<b> Testing instructions: </b> <br>
+Launch the plug-in, and on the top navigation click 'Order'. You can review the order of how elements are read to ensure its correct
+</p>
+
+#### Testing Method 2: Screen Reader Verification
 <b> Tools Used: </b> 
 <ul>
   <li> <a href="https://www.nvaccess.org/download/"> NVDA </a> can be installed on any windows device.  </li>
@@ -329,6 +338,16 @@ Select the screen reader you are using below. The instructions assumes you have 
       </tr>
     </table>
 </details>
+
+<hr>
+
+### Image Alt-Text verification
+<p>
+<b> Tools used: </b> <a href="https://wave.webaim.org/"> WAVE by WebAim </a>, and <a href="https://chromewebstore.google.com/detail/image-alt-text-viewer/nhmihbneenlkbjjpbimhegikadfleccd?hl=en"> Alt Text Viewer </a> <br>
+<b> Testing instructions: </b> <br>
+<p> Launching Wave will identify any missing alt-text. Launching Alt-Text Viewer will show an overlay of the alt-text present. If it is Red, it will indicate an alt-text is missing. If it is yellow or green, these are items where an alt-text is present but requires a manual check to ensure that the alt-text is usable </p>
+<p> If the alt text is for decorative purposes only, it is okay to leave the alt text blank, but the element <code> alt=""</code> must be present  </p>
+<hr>
 
 
 ## Low Vision
