@@ -359,15 +359,17 @@ Select the screen reader you are using below. The instructions assumes you have 
 
 ### Interactive Element 1: Carousels
 <p>
-<b> Tools used: </b> Screen Readerss (JAWS, VO, NVDA, etc)
+<b> Tools used: </b> Screen Readerss (JAWS, VO, NVDA, etc) <br>
 <b> Testing instructions: </b> <br>
-<p> See [Web Elements/Carousels](https://github.com/jkhurdan/A11yTraining/blob/main/WebAudits/Elements-List.md) for expected behaviors. 
-  <ol>
+  
+ See [Web Element-Carousels](https://github.com/jkhurdan/A11yTraining/blob/main/WebAudits/Elements-List.md) for expected behaviors. 
+  
+  <ul>
    <li>   Users must be able to pause carousel movement because it can be too fast or distracting, making text hard to read. </li> 
  <li> All functionality, including navigating between carousel items, must be operable by keyboard. </li>
  <li> Changes to carousel items must be communicated to all users, including screen reader users. </li>
  <li> The keyboard position (“focus”) is managed in a reasonable and comprehensible fashion. </li>
-  </ol>
+  </ul>
 <hr>
 
 ### Interactive Element 2: Forms
@@ -379,16 +381,25 @@ Select the screen reader you are using below. The instructions assumes you have 
 
 ### Interactive Element 3: AI Chat Bots
 <p>
-<b> Tools used: </b> Screen Readerss (JAWS, VO, NVDA, etc)
+<b> Tools used: </b> Screen Readerss (JAWS, VO, NVDA, etc) <br>
 <b> Testing instructions: </b> <br>
-<p>  
+<p> Using your screen reader, we'll be testing the following functionality:
+  <ul>
+    <li> Can I get to the chat bot and does it announce an open/closed state </li>
+    <li> Am I able to read any text (i.e How can I help you, Ask me any questions) or buttons in the chatbot </li>
+    <li> Am I able to enter text, and does it read out the response to my question/prompt </li>
+    <li> Am I able to navigate between sections (answer pane, prompt section, etc) </li>
+    <li> If there is a speech input we will make note of that, see Speech input below </li>
+    <li> Am I able to close the chatbot using my keyboard only (no Keyboard trap) </li>
+    <li> Does it announce any alerts </li>
+  </ul>
 <hr>
 
 ### Attached Documents
 <p>
-<b> Tools used: </b> Screen Readerss (JAWS, VO, NVDA, etc)
+<b> Tools used: </b> Adobe, Microsoft <br>
 <b> Testing instructions: </b> <br>
-<p>  
+<p>  For documents, we'll use that automated checker with in adobe and microsoft to verify the accessibility. For high risk items, we'll do a full manual check, using a screen reader.
 <hr>
 
 ### User Flow Testing
@@ -400,9 +411,9 @@ Select the screen reader you are using below. The instructions assumes you have 
 
 ### Audio Descriptions
 <p>
-<b> Tools used: </b> Screen Readerss (JAWS, VO, NVDA, etc)
+<b> Tools used: </b> N/a <br>
 <b> Testing instructions: </b> <br>
-<p>  
+<p> Audio descriptions can be very expensive to create. As such we 
 <hr>
 
 ## Low Vision
