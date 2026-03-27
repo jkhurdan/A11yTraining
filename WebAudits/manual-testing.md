@@ -340,6 +340,7 @@ Select the screen reader you are using below. The instructions assumes you have 
 </details>
 
 <hr>
+
 ### Arrow Key 2- Focus Indicator
 <p>
 <b> Tools used: </b> Tab Key , arrow Key <br>
