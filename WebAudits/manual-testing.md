@@ -340,6 +340,13 @@ Select the screen reader you are using below. The instructions assumes you have 
 </details>
 
 <hr>
+### Arrow Key 2- Focus Indicator
+<p>
+<b> Tools used: </b> Tab Key , arrow Key <br>
+<b> Testing instructions: </b> <br>
+<p> For this you will use your arrow keys, and tab keys to navigate through the site and ensure that all of the content has a focus indicator on them </p>
+
+<hr>
 
 ### Image Alt-Text verification
 <p>
@@ -349,6 +356,53 @@ Select the screen reader you are using below. The instructions assumes you have 
 <p> If the alt text is for decorative purposes only, it is okay to leave the alt text blank, but the element <code> alt=""</code> must be present  </p>
 <hr>
 
+### Interactive Element 1: Carousels
+<p>
+<b> Tools used: </b> Screen Readerss (JAWS, VO, NVDA, etc)
+<b> Testing instructions: </b> <br>
+<p> See [Web Elements/Carousels](https://github.com/jkhurdan/A11yTraining/blob/main/WebAudits/Elements-List.md) for expected behaviors. 
+  <ol>
+   <li>   Users must be able to pause carousel movement because it can be too fast or distracting, making text hard to read. </li> 
+ <li> All functionality, including navigating between carousel items, must be operable by keyboard. </li>
+ <li> Changes to carousel items must be communicated to all users, including screen reader users. </li>
+ <li> The keyboard position (“focus”) is managed in a reasonable and comprehensible fashion. </li>
+  </ol>
+<hr>
+
+### Interactive Element 2: Forms
+<p>
+<b> Tools used: </b> Screen Readerss (JAWS, VO, NVDA, etc)
+<b> Testing instructions: </b> <br>
+<p>  
+<hr>
+
+### Interactive Element 3: AI Chat Bots
+<p>
+<b> Tools used: </b> Screen Readerss (JAWS, VO, NVDA, etc)
+<b> Testing instructions: </b> <br>
+<p>  
+<hr>
+
+### Attached Documents
+<p>
+<b> Tools used: </b> Screen Readerss (JAWS, VO, NVDA, etc)
+<b> Testing instructions: </b> <br>
+<p>  
+<hr>
+
+### User Flow Testing
+<p>
+<b> Tools used: </b> Screen Readerss (JAWS, VO, NVDA, etc)
+<b> Testing instructions: </b> <br>
+<p>  
+<hr>
+
+### Audio Descriptions
+<p>
+<b> Tools used: </b> Screen Readerss (JAWS, VO, NVDA, etc)
+<b> Testing instructions: </b> <br>
+<p>  
+<hr>
 
 ## Low Vision
 
